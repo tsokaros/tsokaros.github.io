@@ -24,6 +24,9 @@ layout: page
               class=profile_image_class
               alt=profile.image -%}
             {% endif -%}
+            {%- if profile.title %}
+            <h4>{{ profile.title }}</h4>
+            {%- endif %}
             {%- if profile.more_info %}
             <div class="more-info">
               {{ profile.more_info }}

@@ -32,3 +32,21 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+  
+
+"Stuart L. Shapiro":
+  - firstname: ["Stuart"]
+    url: https://en.wikipedia.org/wiki/Stuart_L._Shapiro
+  
+"Koji Uryu":
+- firstname: ["Koji"]
+  url: https://inspirehep.net/authors/985176
+  
+"Antonios Tsokaros":
+- firstname: ["Antonios"]
+  url: https://inspirehep.net/authors/1069191
+
+"Milton Ruiz":
+- firstname: ["Milton"]
+  url: https://miltonruizm.github.io/

@@ -1,13 +1,22 @@
 ---
 layout: page
-title: submenus
+title: Research
 nav: true
-nav_order: 7
+nav_order: 2
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: Isolated Neutron Stars
+      permalink: /isolatedneutronstars/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Binary Neutron Stars
+      permalink: /binaryneutronstars/
+    - title: divider
+    - title: Binary Black Hole Neutron Stars
+      permalink: /binaryblackholeneutronstars/
+    - title: divider
+    - title: Accretion Disks
+      permalink: /accretiondisks/
+    - title: divider
+    - title: Other
+      permalink: /other/
 ---
