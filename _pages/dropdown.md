@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+permalink: /research/
 nav: true
 nav_order: 2
 dropdown: true
@@ -11,7 +12,7 @@ children:
     - title: Binary Neutron Stars
       permalink: /binaryneutronstars/
     - title: divider
-    - title: Binary Black Hole Neutron Stars
+    - title: Binary Black Hole-Neutron Stars
       permalink: /binaryblackholeneutronstars/
     - title: divider
     - title: Accretion Disks
@@ -20,3 +21,14 @@ children:
     - title: Other
       permalink: /other/
 ---
+
+  Insert the fig of the ergostar.
+   My papers can be found on the [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tsokaros) or the [ads](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22tsokaros%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+   database.
+
+   Here is a list of topics of my research:
+   - [Isolated Neutron Stars](https://tsokaros.github.io/isolatedneutronstars/)
+   - [Binary Neutron Stars](https://tsokaros.github.io/binaryneutronstars/)
+   - [Binary Black Hole-Neutron Stars](https://tsokaros.github.io/binaryblackholeneutronstars/)    
+   - [Accretion Disks](https://tsokaros.github.io/accretiondisks/)
+   - [Other](https://tsokaros.github.io/other/)
