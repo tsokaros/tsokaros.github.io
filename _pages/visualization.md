@@ -6,8 +6,7 @@ description:
 nav: false
 nav_order: 4
 ---
-
-### Visualization
+## The Illinois Numerical Relativity Visualization Primer
 
 {% if site.data.repositories.visualization %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
