@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Professor, University of Illinois at Urbana-Champaign
+subtitle: #Research Professor, University of Illinois at Urbana-Champaign
 
 profile:
   align: right
@@ -17,11 +17,18 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am a member of the [Illinois Relativity Group](https://relativity.physics.illinois.edu/) in the [University of Illinois at Urbana-Champaign, Department of Physics](https://physics.illinois.edu/people/directory/profile/tsokaros) and an [NCSA Faculty Fellow](https://www.ncsa.illinois.edu/about/fellowships-internships/ncsa-fellows-program/).
+I am a Research Assistant Professor in the [Department of Physics](https://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, a Faculty Fellow at the [National Center of Supercomputing Applications](https://www.ncsa.illinois.edu/about/fellowships-internships/ncsa-fellows-program/)(NCSA) and a Senior Researcher at the [Research Center for Astronomy and Applied Mathematics](http://astro.academyofathens.gr/) in the  Academy of Athens, Greece.
 
-My expertise lies in the general theory of relativity and the theory of compact objects. I have worked in different areas whose common characteristic is the strong gravity regime, either in the context of compact objects or in a cosmological setting. 
+My research interests lie in the general theory of relativity and the theory of
+compact objects. I use supercomputers to study the physics of neutron stars,
+black holes, the generation of gravitational waves, or gravitational collapse,
+to name a few topics.  In the era of multi-messenger astronomy,
+self-gravitating systems such as triaxial neutron stars or binary neutron stars
+ provide a unique laboratory whose combined emission of
+gravitational, electromagnetic waves, and possibly neutrinos offers a unique
+probe to understand strong-field gravitation, the physics of compact objects
+and cosmology as a whole.
 
-I have co-developed the Compact Object CALculator (COCAL) code, and contributed to the further development of the Illinois General Relativistic MagnetoHydroDynamics (Illinois GRMHD) code in order to study almost every possible configuration of self-gravitating system, from triaxial neutron stars to binary black holes, binary neutron stars and many others. 
-
-In the era of multi-messenger astronomy these systems provide a unique laboratory whose combined emission of gravitational, electromagnetic waves, and possibly neutrinos offers a unique probe to understand strong-field gravitation, the physics of compact objects and cosmology as a whole.
-
+Undergraduate and graduate students interested in numerical relativity and
+computational astrophysics are encouraged to contact [me](mailto:tsokaros@illinois.edu) to discuss about
+potential research problems. **Funding for PhD positions is currently available** (make bold red).
