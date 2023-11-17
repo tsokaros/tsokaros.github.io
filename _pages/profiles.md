@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: Group
 description: Computational Astrophysics Group Members
-nav: true
+nav: false
 nav_order: 6
 
 

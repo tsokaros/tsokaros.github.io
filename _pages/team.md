@@ -2,39 +2,88 @@
 layout: page
 permalink: /team/
 title: Team
-description: This is our research team!
+description:
 nav: true
 nav_order: 6
 ---
 
-# Team
-
+---
 ## Faculty
+<div class="row">
+  <div class="column">
+    <img alt="antonios_tsokaros" src="../assets/img/team/Antonios.png" width="200" height="200">
+     <figcaption>Antonios Tsokaros</figcaption>
+  </div>
+  <div class="column">
+    <img alt="stu_shapiro" src="../assets/img/team/stu.png" width="200" height="200">
+     <figcaption>Stuart L. Shapiro</figcaption>
+  </div>
+</div>
 
-| <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| <img alt="antonios_tsokaros" src="../assets/img/team/Antonios.png" width="200" height="200">  **Antonios Tsokaros** <br> Assistant Professor | <img alt="stu_shapiro" src="../assets/img/team/stu.png" width="200" height="200"> **Stuart L. Shapiro** <br> Professor | |
 
 
 
-
+---
 ## Postdocs
-| <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| <img alt="jamie_bamber" src="../assets/img/team/jamie.png" width="200" height="200">  **Jamie Bamber**| | |
 
+<div class="row">
+  <div class="column">
+    <img alt="jamie_bamber" src="../assets/img/team/jamie.png" width="200" height="200">
+     <figcaption>Jamie Bamber</figcaption>
+  </div>
+</div>
+
+
+---
 ## Graduate Students
-| <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">  **Maxwell Rizzo**| | |
 
+<div class="row">
+  <div class="column">
+    <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">
+     <figcaption>Maxwell Rizzo</figcaption>
+  </div>
+</div>
+
+---
 ## Undergraduate Students
-| <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| <img alt="eric_yu" src="../assets/img/team/eric.png" width="200" height="200">  [**Eric Yu**](https://aeric-underscore.github.io/) | <img alt="jonah_doppelt" src="../assets/img/team/jonah.png" width="200" height="200">  **Jonah Doppelt** | <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">  **Nawaf Aldrees** |
-| <img alt="shreyas_jammi" src="../assets/img/team/shreyas.png" width="200" height="200">  [**Shreyas Jammi**](https://sjammi2.github.io/) | <img alt="rohan_narasimhan" src="../assets/img/team/rohan.png" width="200" height="200">  **Rohan Narasimhan**  | <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200">  **Yinuan Liang** |
-| <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">  **Gene Yun**  |  |  |
 
+<div class="row">
+  <div class="column">
+    <img alt="eric_yu" src="../assets/img/team/eric.png" width="200" height="200">
+     <figcaption><a href="https://aeric-underscore.github.io/">Eric Yu</a></figcaption>
+  </div>
+  <div class="column">
+    <img alt="jonah_doppelt" src="../assets/img/team/jonah.png" width="200" height="200">
+     <figcaption>Jonah Doppelt</figcaption>
+  </div>
+  <div class="column">
+    <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">
+     <figcaption>Nawaf Aldrees</figcaption>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img alt="shreyas_jammi" src="../assets/img/team/shreyas.png" width="200" height="200">
+     <figcaption><a href="https://sjammi2.github.io/">Shreyas Jammi</a></figcaption>
+  </div>
+  <div class="column">
+    <img alt="rohan_narasimhan" src="../assets/img/team/rohan.png" width="200" height="200">
+     <figcaption>Rohan Narasimhan</figcaption>
+  </div>
+  <div class="column">
+    <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200"> 
+     <figcaption>Yinuan Liang</figcaption>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">
+     <figcaption>Gene Yun</figcaption>
+  </div>
+</div>
+
+
+---
 ## Alumni
 **Undergrad**
 - [Mit Kotak](https://mitkotak.github.io/) (CSE PhD at MIT)
