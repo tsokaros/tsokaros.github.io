@@ -9,6 +9,7 @@ dropdown: true
 children:
     - title: Research Overview
       permalink: /research/
+    - title: divider
     - title: Isolated Neutron Stars
       permalink: /isolatedneutronstars/
     - title: divider
