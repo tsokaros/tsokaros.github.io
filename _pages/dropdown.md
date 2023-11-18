@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research Overview
 permalink: /research/
 nav: true
 nav_order: 2
@@ -28,6 +28,7 @@ children:
 
 
 <figure>
+    <center>
     <img src="/assets/img/p_eq_rho_t_P_30.png" width="700">
     <figcaption>Ergo Star</figcaption>
 </figure>
