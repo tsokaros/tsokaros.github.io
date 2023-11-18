@@ -30,5 +30,7 @@ probe to understand strong-field gravitation, the physics of compact objects
 and cosmology as a whole.
 
 Undergraduate and graduate students interested in numerical relativity and
-computational astrophysics are encouraged to contact [me](mailto:tsokaros@illinois.edu) to discuss about potential research problems. **Funding for PhD positions is currently available** (make bold red).
-$$\textcolor{red}{\textbf{Funding for PhD positions is currently available}}$$
+computational astrophysics are encouraged to contact [me](mailto:tsokaros@illinois.edu) to discuss about potential research problems.
+
+
+$$\textcolor{red}{Funding for PhD positions is currently available}$$
