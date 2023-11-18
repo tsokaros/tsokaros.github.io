@@ -31,4 +31,4 @@ and cosmology as a whole.
 
 Undergraduate and graduate students interested in numerical relativity and
 computational astrophysics are encouraged to contact [me](mailto:tsokaros@illinois.edu) to discuss about potential research problems. **Funding for PhD positions is currently available** (make bold red).
-$$\textbf{\color{red}{Funding for PhD positions is currently available}}$$
+$$\textcolor{red}{\textbf{Funding for PhD positions is currently available}}$$
