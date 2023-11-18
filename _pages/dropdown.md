@@ -7,6 +7,8 @@ nav_order: 2
 dropdown: true
 
 children:
+    - title: Research Overview
+      permalink: /research/
     - title: Isolated Neutron Stars
       permalink: /isolatedneutronstars/
     - title: divider
@@ -23,7 +25,10 @@ children:
       permalink: /other/
 ---
 
-  Insert the fig of the ergostar.
+
+![Ergo Star](../assets/img/p_eq_rho_t_P_30.png)
+
+
    My papers can be found on the [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tsokaros) or the [ads](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22tsokaros%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
    database.
 
