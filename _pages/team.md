@@ -29,7 +29,7 @@ nav_order: 6
 <div class="row">
   <div class="column">
     <img alt="jamie_bamber" src="../assets/img/team/jamie.png" width="200" height="200">
-     <figcaption>Jamie Bamber</figcaption>
+     <figcaption>Jamie Bamber (2023 - )</figcaption>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ nav_order: 6
 <div class="row">
   <div class="column">
     <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">
-     <figcaption>Maxwell Rizzo</figcaption>
+     <figcaption>Maxwell Rizzo (2023 - )</figcaption>
   </div>
 </div>
 
@@ -50,35 +50,35 @@ nav_order: 6
 <div class="row">
   <div class="column">
     <img alt="eric_yu" src="../assets/img/team/eric.png" width="200" height="200">
-     <figcaption><a href="https://aeric-underscore.github.io/">Eric Yu</a></figcaption>
+     <figcaption><a href="https://aeric-underscore.github.io/">Eric Yu</a> (2021 - )</figcaption>
   </div>
   <div class="column">
     <img alt="jonah_doppelt" src="../assets/img/team/jonah.png" width="200" height="200">
-     <figcaption>Jonah Doppelt</figcaption>
+     <figcaption>Jonah Doppelt (2022 - )</figcaption>
   </div>
   <div class="column">
     <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">
-     <figcaption>Nawaf Aldrees</figcaption>
+     <figcaption>Nawaf Aldrees (2022 - )</figcaption>
   </div>
 </div>
 <div class="row">
   <div class="column">
     <img alt="shreyas_jammi" src="../assets/img/team/shreyas.png" width="200" height="200">
-     <figcaption><a href="https://sjammi2.github.io/">Shreyas Jammi</a></figcaption>
+     <figcaption><a href="https://sjammi2.github.io/">Shreyas Jammi</a> (2022 - )</figcaption>
   </div>
   <div class="column">
     <img alt="rohan_narasimhan" src="../assets/img/team/rohan.png" width="200" height="200">
-     <figcaption>Rohan Narasimhan</figcaption>
+     <figcaption>Rohan Narasimhan (2023 - )</figcaption>
   </div>
   <div class="column">
     <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200"> 
-     <figcaption>Yinuan Liang</figcaption>
+     <figcaption>Yinuan Liang (2023 - )</figcaption>
   </div>
 </div>
 <div class="row">
   <div class="column">
     <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">
-     <figcaption>Gene Yun</figcaption>
+     <figcaption>Gene Yun (2023 -)</figcaption>
   </div>
 </div>
 
@@ -86,6 +86,6 @@ nav_order: 6
 ---
 ## Alumni
 **Undergrad**
-- [Mit Kotak](https://mitkotak.github.io/) (CSE PhD at MIT)
+- [Mit Kotak](https://mitkotak.github.io/) (2021-2023) Now CSE PhD at MIT
 
 
