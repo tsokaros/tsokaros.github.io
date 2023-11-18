@@ -30,6 +30,7 @@ children:
 <figure>
     <center>
     <img src="/assets/img/p_eq_rho_t_P_30.png" width="700">
+    <figcaption>Ergo Star</figcaption>
     </center>
 </figure>
 
