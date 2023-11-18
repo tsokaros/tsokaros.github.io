@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_2
 title: Research
 permalink: /research/
 nav: true
@@ -26,6 +26,7 @@ children:
       permalink: /other/
 ---
 
+# Research Overview 
 
 <figure>
     <center>
