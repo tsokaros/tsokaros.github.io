@@ -7,7 +7,7 @@ nav_order: 2
 dropdown: true
 
 children:
-    - title: Research Overview
+    - title: <!--- Research Overview --->
       permalink: /research/
     - title: divider
     - title: Isolated Neutron Stars
