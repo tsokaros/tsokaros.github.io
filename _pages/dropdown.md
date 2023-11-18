@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Overview
+title: Research
 permalink: /research/
 nav: true
 nav_order: 2
@@ -34,9 +34,10 @@ children:
 </figure>
 
 
-   My papers can be found on the [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tsokaros) or the [ads](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22tsokaros%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-   database.
 
+
+My papers can be found on the [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tsokaros) or the [ads](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22tsokaros%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+   database.
    Here is a list of topics of my research:
    - [Isolated Neutron Stars](https://tsokaros.github.io/isolatedneutronstars/)
    - [Binary Neutron Stars](https://tsokaros.github.io/binaryneutronstars/)
