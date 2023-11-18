@@ -27,6 +27,13 @@ children:
 ---
 
 
+<figure>
+    <img src="/assets/img/p_eq_rho_t_P_30.png" width="200">
+    <figcaption>Ergo Star</figcaption>
+</figure>
+
+
+
 ![Ergo Star](../assets/img/p_eq_rho_t_P_30.png)
 
 
