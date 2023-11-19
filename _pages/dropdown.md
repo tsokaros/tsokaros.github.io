@@ -7,7 +7,7 @@ nav_order: 2
 dropdown: true
 
 children:
-    - title: aa Research Overview
+    - title: Research Overview
       permalink: /research/
     - title: divider
     - title: Isolated Neutron Stars
@@ -26,11 +26,11 @@ children:
       permalink: /other/
 ---
 
-# Research Overview 
+[//]: # Research Overview
 
 <figure>
     <center>
-    <img src="/assets/img/p_eq_rho_t_P_30.png" width="700">
+    <img src="/assets/img/p_eq_rho_t_P_30.png" width="500">
     <figcaption>Ergo Star</figcaption>
     </center>
 </figure>
