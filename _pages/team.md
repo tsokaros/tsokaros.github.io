@@ -51,11 +51,11 @@ nav_order: 6
   <div class="column">
     <img alt="eric_yu" src="../assets/img/team/eric.png" width="200" height="200">
      <figcaption><a href="https://aeric-underscore.github.io/">Eric Yu</a> (2021 - )</figcaption>
-  </div>
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="jonah_doppelt" src="../assets/img/team/jonah.png" width="200" height="200">
      <figcaption>Jonah Doppelt (2022 - )</figcaption>
-  </div>
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">
      <figcaption>Nawaf Aldrees (2022 - )</figcaption>
@@ -65,11 +65,11 @@ nav_order: 6
   <div class="column">
     <img alt="shreyas_jammi" src="../assets/img/team/shreyas.png" width="200" height="200">
      <figcaption><a href="https://sjammi2.github.io/">Shreyas Jammi</a> (2022 - )</figcaption>
-  </div>
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="rohan_narasimhan" src="../assets/img/team/rohan.png" width="200" height="200">
      <figcaption>Rohan Narasimhan (2023 - )</figcaption>
-  </div>
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200"> 
      <figcaption>Yinuan Liang (2023 - )</figcaption>
