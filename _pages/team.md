@@ -13,7 +13,7 @@ nav_order: 6
   <div class="column">
     <img alt="antonios_tsokaros" src="../assets/img/team/Antonios.png" width="200" height="200">
      <figcaption>Antonios Tsokaros</figcaption>
-  </div>
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="stu_shapiro" src="../assets/img/team/stu.png" width="200" height="200">
      <figcaption>Stuart L. Shapiro</figcaption>
