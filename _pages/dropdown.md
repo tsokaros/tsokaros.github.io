@@ -7,18 +7,12 @@ nav_order: 2
 dropdown: true
 
 children:
-    - title: Research Overview
-      permalink: /research/
     - title: divider
-    - title: Isolated Neutron Stars
-      permalink: /isolatedneutronstars/
+    - title: Neutron Stars
+      permalink: /neutronstars/
     - title: divider
-    - title: Binary Neutron Stars
-      permalink: /binaryneutronstars/
-    - title: divider
-    - title: Binary Black Hole-Neutron Stars
-      permalink: /binaryblackholeneutronstars/
-    - title: divider
+    - title: Binary Systems
+      permalink: /binarysystems/
     - title: Accretion Disks
       permalink: /accretiondisks/
     - title: divider
