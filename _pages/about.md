@@ -17,6 +17,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
+<div style="text-align: justify">
 I am a Research Assistant Professor in the [Department of Physics](https://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, a Faculty Fellow at the [National Center of Supercomputing Applications](https://www.ncsa.illinois.edu/) (NCSA) and a Senior Researcher at the [Research Center for Astronomy and Applied Mathematics](http://astro.academyofathens.gr/) in the  Academy of Athens, Greece.
 
 My research interests lie in the general theory of relativity and the theory of
@@ -31,6 +32,7 @@ and cosmology as a whole.
 
 Undergraduate and graduate students interested in numerical relativity and
 computational astrophysics are encouraged to contact [me](mailto:tsokaros@illinois.edu) to discuss about potential research problems.
+</div>
 
 <font color="red"> $$\textbf{Funding for PhD positions is currently available}$$ </font>
 
