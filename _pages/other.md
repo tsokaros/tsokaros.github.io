@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /other/
-title: other
-description: Materials for courses you taught. Replace this text with your description.
+title: Other Works
+description: 
 nav: false
 nav_order: 5
 ---
