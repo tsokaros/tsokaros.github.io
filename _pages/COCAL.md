@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /COCAL/
-title: COCAL code
+title: The Compact Object CALculator (COCAL) code
 description: 
 nav: false
 nav_order: 4
 ---
 
+<!---
 ### COCAL code
 
 {% if site.data.repositories.COCAL %}
@@ -15,4 +16,4 @@ nav_order: 4
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %}    --->
