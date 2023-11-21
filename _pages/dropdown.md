@@ -7,6 +7,9 @@ nav_order: 2
 dropdown: true
 
 children:
+    - title: Overview
+      permalink: /overview/
+    - title: divider
     - title: Neutron Stars
       permalink: /neutronstars/
     - title: divider
