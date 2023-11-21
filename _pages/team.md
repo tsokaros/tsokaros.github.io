@@ -29,7 +29,7 @@ nav_order: 6
 <div class="row">
   <div class="column">
     <img alt="jamie_bamber" src="../assets/img/team/jamie.png" width="200" height="200">
-     <figcaption>Jamie Bamber (2023 - )</figcaption>
+     <figcaption>Jamie Bamber </figcaption>
   </div>
 </div>
 
