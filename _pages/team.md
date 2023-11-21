@@ -16,7 +16,7 @@ nav_order: 6
   </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="stu_shapiro" src="../assets/img/team/stu.png" width="200" height="200">
-     <figcaption><a href="https://physics.illinois.edu/people/directory/profile/slshapir">Stuart L. Shapiro</a> (2021 - )</figcaption>
+     <figcaption><a href="https://physics.illinois.edu/people/directory/profile/slshapir">Stuart L. Shapiro</a> </figcaption>
   </div>
 </div>
 
