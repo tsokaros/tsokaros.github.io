@@ -7,4 +7,3 @@ nav: false
 nav_order: 5
 ---
 
-Work dedicated to other
