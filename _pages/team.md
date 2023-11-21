@@ -40,7 +40,7 @@ nav_order: 6
 <div class="row">
   <div class="column">
     <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">
-     <figcaption>Maxwell Rizzo (2023 - )</figcaption>
+     <figcaption>Maxwell Rizzo </figcaption>
   </div>
 </div>
 
@@ -54,11 +54,11 @@ nav_order: 6
   </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="jonah_doppelt" src="../assets/img/team/jonah.png" width="200" height="200">
-     <figcaption>Jonah Doppelt (2022 - )</figcaption>
+     <figcaption>Jonah Doppelt </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">
-     <figcaption>Nawaf Aldrees (2022 - )</figcaption>
+     <figcaption>Nawaf Aldrees </figcaption>
   </div>
 </div>
 <div class="row">
@@ -68,17 +68,17 @@ nav_order: 6
   </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="rohan_narasimhan" src="../assets/img/team/rohan.png" width="200" height="200">
-     <figcaption>Rohan Narasimhan (2023 - )</figcaption>
+     <figcaption>Rohan Narasimhan </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200"> 
-     <figcaption>Yinuan Liang (2023 - )</figcaption>
+     <figcaption>Yinuan Liang </figcaption>
   </div>
 </div>
 <div class="row">
   <div class="column">
     <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">
-     <figcaption>Gene Yun (2023 -)</figcaption>
+     <figcaption>Gene Yun </figcaption>
   </div>
 </div>
 
