@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /COCAL/
-title: The $$\textbf{Compact Object CALculator}$$ code
+title: 
 description: 
 nav: false
 nav_order: 4
@@ -18,8 +18,9 @@ nav_order: 4
 </div>
 {% endif %}    --->
 
+# The **Compact Object CALculator** code <br/><br/>
 
-<img align="left" width="400" height=250 src="/assets/img/seagull3.jpg" />
+<img align="left" width="400" height=260 src="/assets/img/seagull3.jpg" hspace="20"/>
 
 The **COCAL** code is a GRMHD initial value code whose objective is to solve 
 for any compact object or binary system. Some of the 
