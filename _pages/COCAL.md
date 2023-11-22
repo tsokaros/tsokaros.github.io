@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /COCAL/
-title: The $$\textbf{Compact}$$ Object CALculator code
+title: The <span style="color:green;font-family:Oxygen;font-weight:600;">  Compact Object CALculator </span> code
 description: 
 nav: false
 nav_order: 4
@@ -9,6 +9,8 @@ nav_order: 4
 
 <!---
 ### COCAL code
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 {% if site.data.repositories.COCAL %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -18,7 +20,7 @@ nav_order: 4
 </div>
 {% endif %}    --->
 
-# The **Compact Object CALculator** code <br/><br/>
+[//]: # The **Compact Object CALculator** code <br/><br/>
 
 <img align="left" width="400" height=260 src="/assets/img/seagull3.jpg" hspace="20"/>
 
