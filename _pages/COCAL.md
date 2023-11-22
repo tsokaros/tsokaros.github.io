@@ -28,5 +28,5 @@ The **COCAL** code is a GRMHD initial value code whose objective is to solve
 for any compact object or binary system. Some of the 
 possible examples are binary black holes/neutron stars/quark stars (BHBH, NSNS,
  QSQS) or mixed binaries (BHNS), postmerger hypermassive neutron/quark stars 
-(RNS,RQS) or black hole toroidal systems, with electromagnetic fields (EM) 
+(RNS,RQS) or black hole toroidal systems, with electromagnetic (EM) fields 
 using different mathematical formulations.
