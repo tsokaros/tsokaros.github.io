@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /COCAL/
-title: 
+title: The $$\textbf{Compact}$$ Object CALculator code
 description: 
 nav: false
 nav_order: 4
