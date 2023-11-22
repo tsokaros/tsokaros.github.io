@@ -19,7 +19,7 @@ nav_order: 4
 {% endif %}    --->
 
 
-<img align="left" width="400" height=250 src="/assets/img/seagull3.jpg" hspace="20"/>
+<img align="left" width="400" height=250 src="/assets/img/seagull3.jpg" />
 
 The **COCAL** code is a GRMHD initial value code whose objective is to solve 
 for any compact object or binary system. Some of the 
