@@ -21,8 +21,8 @@ $$\phantom{.}\hspace{2cm}$$ Ergostar $$\hspace{5cm}$$ Magnetar $$\hspace{4cm}$$ 
 
 With the help of the [COCAL](https://tsokaros.github.io/COCAL/) code we solve the Einstein’s equations, 
 Maxwell’s equations, and magnetohydrodynamic equations to construct models of **isolated** neutron/quark 
-stars. These models are further evolved in order to study the stability properties of these compact objects,
-as well as their gravitational and electromagnetic signatures. Topics of interest include:
+stars. These models are further evolved in order to study their stability properties, as well as their 
+gravitational and electromagnetic signatures. Topics of interest include:
  - Hydrodynamics
    - Axisymmetric or triaxial
    - Uniformly or differentially rotating
