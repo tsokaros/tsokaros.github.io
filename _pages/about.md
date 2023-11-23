@@ -6,9 +6,10 @@ subtitle: #Research Professor, University of Illinois at Urbana-Champaign
 
 profile:
   align: right
-  image: Antonios.png
+  image: me_portait_500x480.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+[//]:     <p>Portrait by Cathy Alexiou</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
