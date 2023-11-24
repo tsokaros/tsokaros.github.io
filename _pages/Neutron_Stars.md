@@ -24,10 +24,10 @@ Maxwell’s equations, and magnetohydrodynamic equations to construct models of 
 stars. These models are further evolved in order to study their stability properties, as well as their 
 gravitational and electromagnetic signatures. Topics of interest include:
  - Hydrodynamics
-   - Axisymmetric or triaxial
-   - Uniformly or differentially rotating
+<!---   - Axisymmetric or triaxial  --->
+<!---   - Uniformly or differentially rotating  --->
  - Magnetohydrodynamics
-   - Different magnetic field topologies
+<!---   - Different magnetic field topologies --->
  - Equation of state
 
 
