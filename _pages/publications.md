@@ -29,6 +29,5 @@ My papers can be found on the [iNSPIRE](https://inspirehep.net/literature?sort=m
    - [Neutron Stars](https://tsokaros.github.io/neutronstars/)
    - [Binary Systems](https://tsokaros.github.io/binarysystems/)
    - [Accretion Disks](https://tsokaros.github.io/accretiondisks/)
-[//]:   - [Other](https://tsokaros.github.io/other/)
 
 
