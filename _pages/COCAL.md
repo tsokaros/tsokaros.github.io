@@ -30,3 +30,19 @@ possible examples are binary black holes/neutron stars/quark stars (BHBH, NSNS,
  QSQS) or mixed binaries (BHNS), postmerger hypermassive neutron/quark stars 
 (RNS,RQS) or black hole toroidal systems, with electromagnetic (EM) fields 
 using different mathematical formulations.
+
+<br/> 
+
+<font color="green">COCAL means a "seagull" in the Triestine dialect of Italian.</font>
+
+<!---
+<figure>
+    <left>
+    <img  width="400" height=260 src="/assets/img/seagull3.jpg">
+    <figcaption><font color="red">COCAL means a "seagull" in the Trieste dialect of Italian.</font></figcaption>
+    </left>
+</figure>  --->
+
+
+
+
