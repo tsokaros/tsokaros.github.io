@@ -18,9 +18,9 @@ children:
     - title: divider
     - title: Accretion Disks
       permalink: /accretiondisks/
-    - title: divider
+<!---    - title: divider
     - title: Other
-      permalink: /other/
+      permalink: /other/   --->
 ---
 
 
