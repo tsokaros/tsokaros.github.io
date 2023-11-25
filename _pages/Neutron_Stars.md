@@ -23,6 +23,7 @@ With the help of the [COCAL](https://tsokaros.github.io/COCAL/) code we solve th
 Maxwell’s equations, and magnetohydrodynamic equations to construct models of **isolated** neutron/quark 
 stars. These models are further evolved in order to study their stability properties, as well as their 
 gravitational and electromagnetic signatures. Topics of interest include:
+ - Formulations
  - Hydrodynamics
 <!---   - Axisymmetric or triaxial  --->
 <!---   - Uniformly or differentially rotating  --->

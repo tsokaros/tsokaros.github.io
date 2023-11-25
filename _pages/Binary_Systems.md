@@ -17,6 +17,7 @@ fundamental research problem.
 Magnetized spinning NSNSs$$\hspace{1.5cm}$$ Incipient jet from a binary remnant $$\hspace{0.5cm}$$ Neutron star disruption in BHNS
 
 Topics of interest include:
+ - Formulations
  - Binary neutron stars
  - Binary black hole-neutron stars
  - Binary black holes
