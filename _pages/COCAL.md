@@ -49,7 +49,7 @@ using different mathematical formulations.
       margin: 20px;
     }
     .figure {
-      float: right;
+      float: left;
       width: 30%;
       margin: 0 0 10px 10px;
       border: 1px solid #ddd;
@@ -73,7 +73,7 @@ using different mathematical formulations.
 <body>
   <div class="wrapper">
     <div class="figure">
-      <img width=400 height=260 src="/assets/img/seagull3.jpg"/>
+      <img width=800 height=520 src="/assets/img/seagull3.jpg"/>
       <p class="caption">COCAL means a "seagull" in the Triestine dialect of Italian.</p>
     </div>
     <p>
