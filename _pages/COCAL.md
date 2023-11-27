@@ -50,7 +50,7 @@ using different mathematical formulations.
     }
     .figure {
       float: right;
-      width: 70%;
+      width: 50%;
       margin: 0 0 10px 10px;
       border: 1px solid #ddd;
       padding: 10px;
