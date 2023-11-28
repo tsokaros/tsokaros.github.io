@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /COCAL/
-title: Compact Object CALculator code  # The <span style="color:green;font-family:Oxygen;font-weight:600;">  Compact Object CALculator </span> code
+title: The <span style="color:green;font-family:Oxygen;font-weight:600;">  Compact Object CALculator </span> code
 description: 
 nav: false
 nav_order: 4
