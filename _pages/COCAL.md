@@ -53,7 +53,7 @@ using different mathematical formulations.
       width: 50%;
       margin: 0 10px 10px 0;
       border: 1px solid #ddd;
-      padding: 10px;
+      padding: 5px;
       text-align: center;
     }
     img {
