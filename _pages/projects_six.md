@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Movies
-permalink: /movies/
+title: Movies six
+permalink: /moviessix/
 description: Research Movies and Visualizations
 nav: false
 nav_order: 2
@@ -22,7 +22,7 @@ horizontal: true
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal_three.html %}
     {%- endfor %}
     </div>
   </div>

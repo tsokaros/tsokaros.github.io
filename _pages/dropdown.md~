@@ -22,22 +22,22 @@ children:
     - title: Movies
       permalink: /movies/ 
     - title: divider
-    - title: Movies two
+    - title: Movies
       permalink: /moviestwo/
     - title: divider
-    - title: Movies three
+    - title: Movies
       permalink: /moviesthree/
     - title: divider
-    - title: Movies four
+    - title: Movies
       permalink: /moviesfour/
     - title: divider
-    - title: Movies five
+    - title: Movies
       permalink: /moviesfive/
     - title: divider
-    - title: Movies six
+    - title: Movies
       permalink: /moviessix/
     - title: divider
-    - title: Movies seven
+    - title: Movies
       permalink: /moviesseven/
 ---
 

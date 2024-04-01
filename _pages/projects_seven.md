@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Movies
-permalink: /movies/
+title: Movies seven
+permalink: /moviesseven/
 description: Research Movies and Visualizations
 nav: false
 nav_order: 2
 display_categories: [Black Holes, Neutron Stars, Binary Black Hole Merger, Binary Neutron Stars Merger]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -14,7 +14,7 @@ horizontal: true
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
+  <h4 class="category">{{ category }}</h4>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->

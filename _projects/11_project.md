@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: Binary Black Hole Merger
+title: project 11
+description: a project with a background image
+img: assets/img/12.jpg
+importance: 11
+category: Black Holes
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Movies
-permalink: /movies/
+permalink: /moviestwo/
 description: Research Movies and Visualizations
 nav: false
 nav_order: 2
 display_categories: [Black Holes, Neutron Stars, Binary Black Hole Merger, Binary Neutron Stars Merger]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
