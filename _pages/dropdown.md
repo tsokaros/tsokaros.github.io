@@ -21,21 +21,6 @@ children:
     - title: divider
     - title: Movies
       permalink: /movies/ 
-    - title: divider
-    - title: Movies two
-      permalink: /moviestwo/
-    - title: divider
-    - title: Movies three
-      permalink: /moviesthree/
-    - title: divider
-    - title: Movies four
-      permalink: /moviesfour/
-    - title: divider
-    - title: Movies five
-      permalink: /moviesfive/
-    - title: divider
-    - title: Movies six
-      permalink: /moviessix/
 ---
 
 

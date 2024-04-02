@@ -36,9 +36,6 @@ children:
     - title: divider
     - title: Movies six
       permalink: /moviessix/
-    - title: divider
-    - title: Movies seven
-      permalink: /moviesseven/
 ---
 
 
