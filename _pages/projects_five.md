@@ -5,7 +5,7 @@ permalink: /moviesfive/
 description: Research Movies and Visualizations
 nav: false
 nav_order: 2
-display_categories: [Black Holes, Neutron Stars, Binary Black Hole Merger, Binary Neutron Stars Merger]
+display_categories: 
 horizontal: true
 ---
 
@@ -31,7 +31,7 @@ horizontal: true
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
-  </div>
+  </div
   {%- endif -%}
   {% endfor %}
 

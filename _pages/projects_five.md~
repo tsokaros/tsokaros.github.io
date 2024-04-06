@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Movies
+title: Movies five
 permalink: /moviesfive/
 description: Research Movies and Visualizations
 nav: false
 nav_order: 2
-display_categories: [Black Holes, Neutron Stars, Binary Black Hole Merger, Binary Neutron Stars Merger]
+display_categories: [Black Holes, jet-like structures in low-mass binary neutron star merger remnants]
 horizontal: true
 ---
 
@@ -31,7 +31,7 @@ horizontal: true
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
-  </div>
+  </div
   {%- endif -%}
   {% endfor %}
 

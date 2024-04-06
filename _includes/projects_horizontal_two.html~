@@ -2,14 +2,16 @@
 <!-- _includes/projects.html -->
 <style>
 .project-card {
-  background-color: rgb(220, 220, 220); /* Specific RGB color */
+  background-color: rgb(3, 21, 51); /* Specific RGB color */
   border-radius: 10px; /* Rounded edges */
-  transition: background-color 0.3s ease; /* Smooth transition animation */
+  transition: background-color 0.3s ease, transform 0.3s ease, z-index 0.3s ease; /* Smooth transition animation */
+  position: relative; /* Ensure proper positioning */
 }
 
 .project-card:hover {
-  background-color: rgb(200, 200, 200); /* Adjusted color on hover */
-  transform: scale(1.05); /* Slight scale increase on hover */
+  background-color: rgb(74, 77, 130); /* Adjusted color on hover */
+  transform: scale(1.08); /* Slight scale increase on hover */
+  z-index: 1; /* Bring the hovered card to the top */
 }
 </style>
 
@@ -30,7 +32,6 @@
         <div class="col-md-12">
         {%- endif -%}
           <div class="card-body">
-            <h3 class="card-title text-lowercase">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if project.github -%}

@@ -1,60 +1,98 @@
-
 <!-- _includes/projects.html -->
 <style>
 .project-card {
-  background-color: rgb(220, 220, 220); /* Specific RGB color */
+  background-color: rgb(3, 21, 51); /* Specific RGB color */
   border-radius: 10px; /* Rounded edges */
-  transition: background-color 0.3s ease; /* Smooth transition animation */
+  transition: background-color 0.3s ease, transform 0.3s ease, z-index 0.3s ease; /* Smooth transition animation */
+  position: relative; /* Ensure proper positioning */
+  width: 100%; /* Occupy entire width of container */
 }
 
 .project-card:hover {
-  background-color: rgb(200, 200, 200); /* Adjusted color on hover */
-  transform: scale(1.05); /* Slight scale increase on hover */
+  background-color: rgb(23, 45, 82); /* Adjusted color on hover */
+  transform: scale(1.2); /* Slight scale increase on hover */
+  z-index: 1; /* Bring the hovered card to the top */
 }
 
 .card-title {
   font-size: 1.2em; /* Adjust the font size */
   font-weight: bold; /* Make the title bold */
 }
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.projects-container .card-item {
+  flex: 1 0 auto; /* Allow items to grow, but don't shrink or basis */
+}
+
+.projects-container .project-card {
+  max-height: 100%; /* Set maximum height to avoid cards being too large */
+}
 </style>
 
-<div class="card-item col">
-  {%- if project.redirect -%}
-  <a href="{{ project.redirect }}">
-  {%- else -%}
-  <a href="{{ project.url | relative_url }}">
-  {%- endif -%}
-    <div class="project-card card hoverable">
-      <div class="row g-0">
-        {%- if project.img -%}
-        <div class="card-img col-md-6">
-          {% include figure.html path=project.img alt="project thumbnail" %}
-        </div>
-        <div class="col-md-6">
-        {%- else -%}
-        <div class="col-md-12">
-        {%- endif -%}
-          <div class="card-body">
-            <h3 class="card-title text-lowercase">{{ project.title }}</h3>
-            <p class="card-text">{{ project.description }}</p>
-            <div class="row ml-1 mr-1 p-0">
-              {%- if project.github -%}
-              <div class="github-icon">
-                <div class="icon" data-toggle="tooltip" title="Code Repository">
-                  <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
+<div class="projects-container">
+  {% for project in projects %}
+  <div class="card-item col">
+    {%- if project.redirect -%}
+    <a href="{{ project.redirect }}">
+    {%- else -%}
+    <a href="{{ project.url | relative_url }}">
+    {%- endif -%}
+      <div class="project-card card hoverable">
+        <div class="row g-0">
+          {%- if project.img -%}
+          <div class="card-img col-md-6">
+            {% include figure.html path=project.img alt="project thumbnail" %}
+          </div>
+          <div class="col-md-6">
+          {%- else -%}
+          <div class="col-md-12">
+          {%- endif -%}
+            <div class="card-body">
+              <p class="card-text">{{ project.description }}</p>
+              <div class="row ml-1 mr-1 p-0">
+                {%- if project.github -%}
+                <div class="github-icon">
+                  <div class="icon" data-toggle="tooltip" title="Code Repository">
+                    <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
+                  </div>
+                  {%- if project.github_stars -%}
+                  <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                    <i class="fas fa-star"></i>
+                    <span id="{{ project.github_stars }}-stars"></span>
+                  </span>
+                  {%- endif -%}
                 </div>
-                {%- if project.github_stars -%}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                  <i class="fas fa-star"></i>
-                  <span id="{{ project.github_stars }}-stars"></span>
-                </span>
                 {%- endif -%}
               </div>
-              {%- endif -%}
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </a>
+    </a>
+  </div>
+  {% endfor %}
 </div>
+
+<script>
+// JavaScript to dynamically set the height of all project cards to match the maximum height
+window.addEventListener('load', function() {
+  var projectCards = document.querySelectorAll('.project-card');
+  var maxHeight = 0;
+
+  projectCards.forEach(function(card) {
+    var cardHeight = card.offsetHeight;
+    if (cardHeight > maxHeight) {
+      maxHeight = cardHeight;
+    }
+  });
+
+  projectCards.forEach(function(card) {
+    card.style.height = maxHeight + 'px';
+  });
+});
+</script>
+

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: 
+description: Jet-like structures in low-mass binary neutron star merger remnants
+img: assets/img/image_2024_04_02T01_07_41_447Z.png
 importance: 2
 category: Black Holes
 giscus_comments: true
