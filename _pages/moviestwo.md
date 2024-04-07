@@ -6,7 +6,7 @@ description:
 nav: false
 nav_order: 2
 display_categories: 
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -43,7 +43,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal_alpha1.html %}
     {%- endfor %}
     </div>
   </div>

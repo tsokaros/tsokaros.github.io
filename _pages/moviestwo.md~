@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: movies
 title: Movies
 permalink: /visualizationstwo/
 description: 
@@ -43,7 +43,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal_alpha1.html %}
     {%- endfor %}
     </div>
   </div>
