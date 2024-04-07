@@ -4,6 +4,8 @@
   border-radius: 10px; /* Rounded edges */
   transition: background-color 0.3s ease, transform 0.3s ease, z-index 0.3s ease; /* Smooth transition animation */
   position: relative; /* Ensure proper positioning */
+  width: 200px; /* Set desired width */
+  height: 250px; /* Set desired height */
 }
 
 .project-card:hover {
@@ -11,7 +13,6 @@
   transform: scale(1.08); /* Slight scale increase on hover */
   z-index: 1; /* Bring the hovered card to the top */
 }
-
   /* Center the paragraph with the "centered-paragraph" class */
   .card-text{
     text-align: center;
