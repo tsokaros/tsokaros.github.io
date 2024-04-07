@@ -11,6 +11,12 @@
   transform: scale(1.08); /* Slight scale increase on hover */
   z-index: 1; /* Bring the hovered card to the top */
 }
+
+  /* Center the paragraph with the "centered-paragraph" class */
+  .card-text{
+    text-align: center;
+  }
+
 </style>
 
 <div class="grid-sizer"></div>
