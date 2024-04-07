@@ -1,39 +1,48 @@
-<div class="card-item col">
-  {%- if project.redirect -%}
+
+<style>
+  /* Custom CSS for controlling size and position */
+  .grid-item {
+    /* Adjust the width of each grid item */
+    width: 300px; /* Change this value as needed */
+    /* Positioning */
+    float: left; /* Or use display: inline-block; */
+    margin-right: 20px; /* Adjust the spacing between grid items */
+    margin-bottom: 20px; /* Adjust the spacing between grid rows */
+  }
+</style>
+
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if project.redirect -%}
   <a href="{{ project.redirect }}">
-  {%- else -%}
-  <a href="{{ project.url | relative_url }}">
-  {%- endif -%}
-    <div class="card hoverable">
-      <div class="row g-0">
-        {%- if project.img -%}
-        <div class="card-img col-md-6">
-          {% include figure.html path=project.img alt="project thumbnail" %}
-        </div>
-        <div class="col-md-6">
-        {%- else -%}
-        <div class="col-md-12">
-        {%- endif -%}
-          <div class="card-body">
-            <p class="card-text">{{ project.description }}</p>
-            <div class="row ml-1 mr-1 p-0">
-              {%- if project.github -%}
-              <div class="github-icon">
-                <div class="icon" data-toggle="tooltip" title="Code Repository">
-                  <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
-                </div>
-                {%- if project.github_stars -%}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                  <i class="fas fa-star"></i>
-                  <span id="{{ project.github_stars }}-stars"></span>
-                </span>
-                {%- endif -%}
+    {%- else -%}
+    <a href="{{ project.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if project.img %}
+        {%- include figure.html
+          path=project.img
+          alt="project thumbnail" -%}
+        {%- endif %}
+        <div class="card-body">
+          <p class="card-text">{{ project.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+            {%- if project.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
               </div>
-              {%- endif -%}
+              {%- if project.github_stars -%}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fas fa-star"></i>
+                <span id="{{ project.github_stars }}-stars"></span>
+              </span>
+              {%- endif %}
             </div>
+            {%- endif %}
           </div>
         </div>
       </div>
-    </div>
-  </a>
+    </a>
 </div>
