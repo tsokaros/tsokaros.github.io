@@ -4,8 +4,8 @@
   border-radius: 10px; /* Rounded edges */
   transition: background-color 0.3s ease, transform 0.3s ease, z-index 0.3s ease; /* Smooth transition animation */
   position: relative; /* Ensure proper positioning */
-  width: 200px; /* Set desired width */
-  height: 250px; /* Set desired height */
+  width: 400px; /* Set desired width */
+  height: 500px; /* Set desired height */
 }
 
 .project-card:hover {
