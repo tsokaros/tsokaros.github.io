@@ -20,6 +20,9 @@ children:
       permalink: /accretiondisks/
     - title: divider
     - title: Movies
+      permalink: /visualizations/
+    - title: divider
+    - title: Movies two
       permalink: /visualizationstwo/
 ---
 

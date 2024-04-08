@@ -22,7 +22,6 @@ children:
     - title: Movies
       permalink: /visualizations/
     - title: divider
-    - title: Moviestwo
       permalink: /visualizationstwo/
 ---
 

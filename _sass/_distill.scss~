@@ -75,6 +75,7 @@ d-article {
     display: grid;
     grid-template-columns:
       minmax(8px, 1fr) [toc] auto
+      minmax(8px, 1fr) [toc-line] 1px
       minmax(32px, 2fr);
 
     nav {
