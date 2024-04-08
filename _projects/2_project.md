@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 
+title: Jet-like structures in low-mass binary neutron star merger remnants
 description: Jet-like structures in low-mass binary neutron star merger remnants
 img: assets/img/image_2024_04_02T01_07_41_447Z.png
-importance: 2
-category: Black Holes
-giscus_comments: true
+importance: 1
+category:  jet-like structures in low-mass binary neutron star merger remnants
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
