@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Movies
-permalink: /visualizations/
+permalink: /Movies/
 description: 
 nav: false
 nav_order: 2

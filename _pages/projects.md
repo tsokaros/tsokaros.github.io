@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Movies
-permalink: /movies/
+permalink: /movies_visualizations/
 description: Research Movies and Visualizations
 nav: false
 nav_order: 2

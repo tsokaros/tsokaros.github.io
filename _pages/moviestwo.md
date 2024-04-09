@@ -1,12 +1,12 @@
 ---
 layout: movies
 title: Movies
-permalink: /visualizationstwo/
+permalink: /Moviestwo/
 description: 
 nav: false
 nav_order: 2
 display_categories: 
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -44,13 +44,15 @@ horizontal: true
     {%- endfor %}
     </div>
   {%- else -%}
-  <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
-      {% include projects_two.html %}
-    {%- endfor %}
-    <div>
-  </div>
+    <div class="container">
+        <div class="row">
+        {%- for project in sorted_projects -%}
+            <div class="col-xl-6">
+                {% include projects.html %}
+            </div>
+        {%- endfor %}
+        </div>
+    </div>
   {%- endif -%}
 {%- endif -%}
 </div>
