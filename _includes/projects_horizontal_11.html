@@ -1,21 +1,21 @@
-<div class="card-item col" style="height: 300px;"> <!-- Set a fixed height -->
+<div class="card-item col" style="height: 200px;"> <!-- Set a fixed height -->
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
   {%- else -%}
   <a href="{{ project.url | relative_url }}">
   {%- endif -%}
-    <div class="card" style="height: 200px;">
+    <div class="card" style="height: 100px;">
       <div class="row align-items-stretch">
         {%- if project.img -%}
-        <div class="card-img col-md-6">
+        <div class="card-img col-md-3">
           {% include figuretwo.html path=project.img alt="project thumbnail" %}
         </div>
-        <div class="col-md-6 d-flex flex-column">
+        <div class="col-md-9 d-flex flex-column">
         {%- else -%}
         <div class="col-md-12">
         {%- endif -%}
           <div class="card-body h-100 d-flex flex-column" style="background: none;">
-            <p class="card-text">{{ project.description }}</p>
+            <p class="card-text" style="font-family: Arial, sans-serif; font-size: 18px; color: rgb(255, 255, 255);">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if project.github -%}
               <div class="github-icon">
