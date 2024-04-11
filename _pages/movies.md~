@@ -51,7 +51,7 @@ horizontal: false
     <div class="container">
         <div class="row">
         {%- for project in sorted_projects -%}
-            <div class="col-xl-10">
+            <div class="col-xl-8">
                 {% include projects_horizontal.html %}
             </div>
         {%- endfor %}

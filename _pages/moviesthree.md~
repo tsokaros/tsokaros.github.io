@@ -2,11 +2,11 @@
 layout: page
 title: Movies
 permalink: /moviesthree/
-description: Research Movies and Visualizations
+description: 
 nav: false
 nav_order: 2
-display_categories: [Black Holes, Neutron Stars, Binary Black Hole Merger, Binary Neutron Stars Merger]
-horizontal: false
+display_categories:
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -20,17 +20,19 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="container">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
-      {% include projects_two.html %}
+      {% include projects.html %}
     {%- endfor %}
+    <div>
   </div>
   {%- endif -%}
   {% endfor %}
@@ -40,27 +42,25 @@ horizontal: false
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    <div class="container">
+        <div class="row">
+        {%- for project in sorted_projects -%}
+            <div class="col-xl-8">
+                {% include projects_horizontal_11.html %}
+            </div>
+        {%- endfor %}
+        </div>
     </div>
-  </div>
   {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
+    <div class="container">
+        <div class="row">
+        {%- for project in sorted_projects -%}
+            <div class="col-xl-8">
+                {% include projects_horizontal.html %}
+            </div>
+        {%- endfor %}
+        </div>
+    </div>
   {%- endif -%}
 {%- endif -%}
 </div>
-
-<!-- CSS styles -->
-<style>
-.project-title {
-  text-align: center; /* Center align the text */
-  font-weight: bold; /* Make the text bold */
-}
-</style>

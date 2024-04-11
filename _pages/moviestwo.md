@@ -1,7 +1,7 @@
 ---
 layout: movies
 title: Movies
-permalink: /Moviestwo/
+permalink: /moviestwo/
 description: 
 nav: false
 nav_order: 2
