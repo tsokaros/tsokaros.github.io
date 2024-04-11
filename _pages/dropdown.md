@@ -18,15 +18,9 @@ children:
     - title: divider
     - title: Accretion Disks
       permalink: /accretiondisks/
-    - title: divider
+   - title: divider
     - title: Movies
       permalink: /movies/
-    - title: divider
-    - title: Movies two
-      permalink: /moviestwo/
-    - title: divider
-    - title: Movies three
-      permalink: /moviesthree/
 
 ---
 
