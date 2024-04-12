@@ -65,9 +65,6 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
        <iframe width="560" height="315" src="https://youtu.be/l_v_j8fcjXg" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-<div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
-    case name 
-</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0"> 
@@ -95,15 +92,9 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
        <iframe width="560" height="315" src="https://youtu.be/KSCayGd97eY" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-<div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
-    Case Name
-</div>
 
 
 
-
-
-The paper can be found [here](url)
 
 
 
