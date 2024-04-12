@@ -53,7 +53,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/IRE2.57.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+       <iframe width="560" height="315" src="https://youtu.be/cH_IqdknPzk" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
@@ -62,7 +62,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/finalmovie.mp40001-3524.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+       <iframe width="560" height="315" src="https://youtu.be/l_v_j8fcjXg" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
@@ -70,17 +70,19 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/IRE2.54FULL.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    <div class="col-sm mt-3 mt-md-0"> 
+       <iframe width="560" height="315" src="https://youtu.be/AyipGh3IC58" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
     irrotational Case: 2.54 
 </div>
 
+
+
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/lastversionIRE2.40.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    <div class="col-sm mt-3 mt-md-0"> 
+       <iframe width="560" height="315" src="https://youtu.be/c8xBT88prSk" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
@@ -90,7 +92,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/shouldbefinal0001-2842.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+       <iframe width="560" height="315" src="https://youtu.be/KSCayGd97eY" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
