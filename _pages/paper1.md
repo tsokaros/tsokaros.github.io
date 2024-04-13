@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-# <font color="red"> $$\textbf{Jet like structures in low-mass binary neutron star merger remnants}$$ </font>
+# <font color="blue"> Jet like structures in low-mass binary neutron star merger remnants </font>
 **Jamie Bamber, Antonios Tsokaros, Milton Ruiz, and Stuart L. Shapiro**
 
 <!---
@@ -65,7 +65,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
     </div>
 </div>
 <div class="caption" style="font-size: 18px; font-style: normal; color: rgb(255, 255, 255);">
-    Irrotational NSNS with $$M_{ADM} = 2.57$$. Supramassive remnant.
+    Irrotational NSNS with $M_{ADM} = 2.57$. Supramassive remnant.
 </div>
 <br/>
 
