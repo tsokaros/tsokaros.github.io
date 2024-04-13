@@ -58,7 +58,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       <iframe width="500" height="315" src="https://youtu.be/cH_IqdknPzk" frameborder="1" allowfullscreen></iframe>
+       <iframe width="600" height="350" src="https://youtu.be/cH_IqdknPzk" frameborder="1" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 18px; font-style: normal; color: rgb(255, 255, 255);">
