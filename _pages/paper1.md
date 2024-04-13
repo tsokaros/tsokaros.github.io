@@ -53,7 +53,8 @@ incipient jets from the SMNS remnants have much more baryon pollution and we see
 inefficient acceleration and mixing with the surrounding debris torus. Therefore, we conclude that
 outflows from SMNSs cannot be the progenitors of sGRBs.
 
-# Relevant Visualizations and Movies
+<br/><br/>
+# Movies
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +62,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
     </div>
 </div>
 <div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
-    irrotational Case: 2.57 
+    Irrotational NSNS with $M_{ADM} = 2.57$. Results to a supramassive remnant.
 </div>
 
 <div class="row mt-3">
