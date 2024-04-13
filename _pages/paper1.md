@@ -9,7 +9,9 @@ nav_order: 2
 
 
 # Jet like structures in low-mass binary neutron star merger remnants
+**Jamie Bamber, Antonios Tsokaros, Milton Ruiz, and Stuart L. Shapiro**
 
+<!---
 **Jamie Bamber,**<sup>1</sup> **Antonios Tsokaros,**<sup>1,2,3</sup> **Milton Ruiz,**<sup>4</sup> **and Stuart L. Shapiro**<sup>1,5</sup>
 
 <sup>1</sup>*Department of Physics, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA*
@@ -21,11 +23,11 @@ nav_order: 2
 <sup>4</sup>*Departament d’Astronomia i Astrofı́sica, Universitat de València, C/ Dr Moliner 50, 46100, Burjassot (València), Spain*
 
 <sup>5</sup>*Department of Astronomy & NCSA, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA*
+--->
 
 Date: April 1, 2024
 
 # Abstract 
-
 GW170817 and GRB 170817A provided direct evidence that binary neutron star (NSNS) mergers
 can produce short gamma-ray bursts (sGRBs). However, questions remain about the nature of the
 central engine. Depending on the mass, the remnant from a NSNS merger may promptly collapse to
