@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-# Jet like structures in low-mass binary neutron star merger remnants
+# <font color="red"> $$\textbf{Jet like structures in low-mass binary neutron star merger remnants}$$ </font>
 **Jamie Bamber, Antonios Tsokaros, Milton Ruiz, and Stuart L. Shapiro**
 
 <!---
