@@ -64,7 +64,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
        <iframe width="700" height="400" src="https://youtu.be/cH_IqdknPzk" frameborder="1" allowfullscreen></iframe>
     </div>
 </div>
-<div class="caption" style="font-size: 18px; font-style: normal; color: rgb(255, 255, 255);">
+<div class="caption" style="font-size: 18px; font-style: normal; color: rgb(255, 140, 0);">
     Irrotational NSNS with $M_{ADM} = 2.57$. Supramassive remnant.
 </div>
 <br/>
