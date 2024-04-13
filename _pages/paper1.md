@@ -55,6 +55,9 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 <br/><br/>
 # Movies
+**Nawaf Aldrees, Jamie Bamber, Jonah Doppelt, Yinuan Liang, Rohan Narasimhan, Milton Ruiz, Stuart L. Shapiro, Antonios Tsokaros, and Eric Yu**
+<br/><br/>
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
