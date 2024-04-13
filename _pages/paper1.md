@@ -26,7 +26,7 @@ nav_order: 2
 --->
 
 
-Date: April 1, 2024   <br /><br /><br /> arXiv:0000.00000
+Date: April 1, 2024   &emsp;&emsp; arXiv:0000.00000
 <br/><br/>
 
 # Abstract 
