@@ -7,11 +7,22 @@ nav: false
 nav_order: 2
 ---
 
+<div class="alert alert-block alert-success">
+     <span style="color:red;font-weight:400;font-size:40px;line-height:1em">
+        Jet like structures in low-mass binary neutron star merger remnants
+     </span>
+     <br/><br/>
+     <span style="color:black;font-weight:500;font-size:20px">
+     Jamie Bamber, Antonios Tsokaros, Milton Ruiz, and Stuart L. Shapiro
+     </span>
+</div>
 
-# <font color="gold"> Jet like structures in low-mass binary neutron star merger remnants </font>
-**Jamie Bamber, Antonios Tsokaros, Milton Ruiz, and Stuart L. Shapiro**
+
 
 <!---
+# <font color="green"> Jet like structures in low-mass binary neutron star merger remnants </font>
+**Jamie Bamber, Antonios Tsokaros, Milton Ruiz, and Stuart L. Shapiro**
+
 **Jamie Bamber,**<sup>1</sup> **Antonios Tsokaros,**<sup>1,2,3</sup> **Milton Ruiz,**<sup>4</sup> **and Stuart L. Shapiro**<sup>1,5</sup>
 
 <sup>1</sup>*Department of Physics, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA*
@@ -28,6 +39,7 @@ nav_order: 2
 
 Date: April 1, 2024   &emsp;&emsp; arXiv:0000.00000
 <br/><br/>
+
 
 # Abstract 
 GW170817 and GRB 170817A provided direct evidence that binary neutron star (NSNS) mergers
@@ -54,14 +66,27 @@ inefficient acceleration and mixing with the surrounding debris torus. Therefore
 outflows from SMNSs cannot be the progenitors of sGRBs.
 
 <br/><br/>
+
+<!---
 # Movies
 **Nawaf Aldrees, Jamie Bamber, Jonah Doppelt, Yinuan Liang, Rohan Narasimhan, Milton Ruiz, Stuart L. Shapiro, Antonios Tsokaros, and Eric Yu**
 <br/><br/>
+--->
+
+<div class="alert alert-block alert-info">
+     <span style="color:red;font-weight:400;font-size:40px;line-height:1em">
+        Movies
+     </span>
+     <br/>
+     <span style="color:black;font-weight:500;font-size:20px">
+     Nawaf Aldrees, Jamie Bamber, Jonah Doppelt, Yinuan Liang, Rohan Narasimhan, Milton Ruiz, Stuart L. Shapiro, Antonios Tsokaros, and Eric Yu
+     </span>
+</div>
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-       <iframe width="700" height="400" src="https://youtu.be/cH_IqdknPzk" frameborder="1" allowfullscreen></iframe>
+       <iframe width="770" height="450" src="https://youtu.be/cH_IqdknPzk" frameborder="1" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption" style="font-size: 18px; font-style: normal; color: rgb(0, 128, 0);">
