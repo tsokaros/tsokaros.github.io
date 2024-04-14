@@ -84,53 +84,56 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 </div>
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       <iframe width="770" height="450" src="https://youtu.be/cH_IqdknPzk" frameborder="1" allowfullscreen></iframe>
-    </div>
-</div>
-<div class="caption" style="font-size: 18px; font-style: normal; color: rgb(0, 128, 0);">
-    Irrotational NSNS with $M_{ADM} = 2.57$. Supramassive remnant.
-</div>
-<br/>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       <iframe width="560" height="315" src="https://youtu.be/l_v_j8fcjXg" frameborder="1" allowfullscreen></iframe>
-    </div>
-</div>
-<div class="caption" style="font-size: 20px; font-style: normal; color: rgb(255, 255, 255);">
-    Irrotational NSNS with $M_{ADM} = 2.57$. Supramassive remnant.
-</div>
+[Case 1: Irrotational 2.40](#case-1-irrotational-240)
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0"> 
-       <iframe width="560" height="315" src="https://youtu.be/AyipGh3IC58" frameborder="0" allowfullscreen></iframe>
-    </div>
-</div>
-<div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
-    Irrotational NSNS with $M_{ADM} = 2.54$. Supramassive remnant.
-</div>
+[Case 2: Irrotational 2.54](#case-2-irrotational-254)
+
+
+[Case 3: Irrotational 2.57](#case-3-irrotational-257)
+
+
+[Case 4: Irrotational 2.70](#case-4-irrotational-270)
+
+
+[Case 5: Spinning 2.51](#case-5-spinning-251)
+
+
+[Case 6: Spinning 2.57](#case-6-spinning-257)
 
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0"> 
-       <iframe width="560" height="315" src="https://youtu.be/c8xBT88prSk" frameborder="0" allowfullscreen></iframe>
-    </div>
-</div>
-<div class="caption" style="font-size: 20px; font-style: italic; color: rgb(255, 255, 255);">
-    irrotational Case: 2.40 
-</div>
+---
+## Case 1: Irrotational 2.40
 
+[Play Case 1](https://youtu.be/AqFljoMvCPI)
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-       <iframe width="560" height="315" src="https://youtu.be/KSCayGd97eY" frameborder="0" allowfullscreen></iframe>
-    </div>
-</div>
+---
+## Case 2: Irrotational 2.54
 
+[Play Case 2](https://youtu.be/pDMIFT6iZeU)
+
+---
+## Case 3: Irrotational 2.57
+
+[Play Case 3](https://youtu.be/YVV9uj9IGrc)
+
+---
+## Case 4: Irrotational 2.70
+
+[Play Case 4](https://youtu.be/TqAlPshY2Xk)
+
+---
+## Case 5: Spinning 2.51
+
+[Play Case 5](https://youtu.be/7GOVSi3IzeE)
+
+---
+## Case 6: Spinning 2.57
+
+[Play Case 6](https://youtu.be/BvseyhtDjvg)
+
+---
 
 
 
