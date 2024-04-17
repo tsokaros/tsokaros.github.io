@@ -134,5 +134,21 @@ profiles:
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >  
+  - header: 
+    align: left
+    image: mai.jpg
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mai Li</p>
+      <p>maili2@illinois.edu</p>  
+    align: right
+    image: 
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >  
+
 
 ---

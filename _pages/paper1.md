@@ -84,54 +84,49 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 </div>
 
 
-[Case 1: Irrotational 2.40](#case-1-irrotational-240)
-
-
-[Case 2: Irrotational 2.54](#case-2-irrotational-254)
-
-
-[Case 3: Irrotational 2.57](#case-3-irrotational-257)
-
-
-[Case 4: Irrotational 2.70](#case-4-irrotational-270)
-
-
-[Case 5: Spinning 2.51](#case-5-spinning-251)
-
-
-[Case 6: Spinning 2.57](#case-6-spinning-257)
-
-
 
 ---
 ## Case 1: Irrotational 2.40
 
-[Play Case 1](https://youtu.be/AqFljoMvCPI)
+
+<iframe width="760" height="450" src="https://www.youtube.com/embed/VAgDpT0Jccc" frameborder="0" allowfullscreen></iframe>
+
+ 
+
 
 ---
 ## Case 2: Irrotational 2.54
 
-[Play Case 2](https://youtu.be/pDMIFT6iZeU)
+
+<iframe width="760" height="450" src="https://www.youtube.com/embed/lt2wVfvU5C4" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## Case 3: Irrotational 2.57
 
-[Play Case 3](https://youtu.be/YVV9uj9IGrc)
+
+<iframe width="760" height="450" src="https://www.youtube.com/embed/XqxsQ47zCoc" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 ## Case 4: Irrotational 2.70
 
-[Play Case 4](https://youtu.be/TqAlPshY2Xk)
+
+<iframe width="760" height="450" src="https://www.youtube.com/embed/xkAW9YJLGIY" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 ## Case 5: Spinning 2.51
 
-[Play Case 5](https://youtu.be/7GOVSi3IzeE)
+
+<iframe width="760" height="450" src="https://www.youtube.com/embed/4AuxP6rjZbg" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 ## Case 6: Spinning 2.57
 
-[Play Case 6](https://youtu.be/BvseyhtDjvg)
+
+<iframe width="760" height="450" src="https://www.youtube.com/embed/aBsLpW7wluM" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 

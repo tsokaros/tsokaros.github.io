@@ -79,8 +79,13 @@ nav_order: 6
   <div class="column">
     <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">
      <figcaption>Gene Yun </figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="mai_li" src="../assets/img/mai.jpg" width="200" height="200"> 
+     <figcaption>Mai Li </figcaption>
   </div>
 </div>
+
 
 
 ---
