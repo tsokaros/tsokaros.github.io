@@ -86,7 +86,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 
 ---
-## Case 1: Irrotational 2.40
+## Case 1: Irrotational $M=2.40 M_\odot$
 
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/VAgDpT0Jccc" frameborder="0" allowfullscreen></iframe>
