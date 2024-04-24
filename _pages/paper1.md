@@ -110,21 +110,21 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 ## Case 4: Irrotational 2.70
 
 
-<iframe width="760" height="450" src="https://www.youtube.com/embed/xkAW9YJLGIY" frameborder="0" allowfullscreen></iframe>
+<iframe width="760" height="450" src="https://www.youtube.com/embed/2YPsI57J4v8" frameborder="0" allowfullscreen></iframe>
 
 
 ---
 ## Case 5: Spinning 2.51
 
 
-<iframe width="760" height="450" src="https://www.youtube.com/embed/4AuxP6rjZbg" frameborder="0" allowfullscreen></iframe>
+<iframe width="760" height="450" src="https://www.youtube.com/embed/CCmXxK07ks4" frameborder="0" allowfullscreen></iframe>
 
 
 ---
 ## Case 6: Spinning 2.57
 
 
-<iframe width="760" height="450" src="https://www.youtube.com/embed/aBsLpW7wluM" frameborder="0" allowfullscreen></iframe>
+<iframe width="760" height="450" src="https://www.youtube.com/embed/cRXn-EnJ4ms" frameborder="0" allowfullscreen></iframe>
 
 
 ---
