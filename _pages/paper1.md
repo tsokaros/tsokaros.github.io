@@ -82,39 +82,41 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
      </span>
 </div>
 
+<br/>
 
 
 ---
-## Case 1: Irrotational, $M=2.40 M_\odot$, supramassive remnant.
-
+#### Irrotational, ADM mass $M=2.40 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/VAgDpT0Jccc" frameborder="0" allowfullscreen></iframe>
-
- 
-
+<br/>
 
 ---
-## Case 2: Irrotational, $M=2.54 M_\odot$, supramassive remnant.
+#### Irrotational, ADM mass $M=2.54 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/lt2wVfvU5C4" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ---
-## Case 3: Irrotational, $M=2.57 M_\odot$, supramassive remnant.
+#### Irrotational, ADM mass $M=2.57 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/XqxsQ47zCoc" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ---
-## Case 4: Irrotational, $M=2.70 M_\odot$, hypermassive remnant that collapses to a black hole.
+#### Irrotational, ADM mass $M=2.70 M_\odot$, hypermassive remnant that collapses to a black hole.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/xkAW9YJLGIY" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ---
-## Case 5: Spinning $\chi_{NS}=0.27$, $M=2.51 M_\odot$, supramassive remnant.
+#### Spinning, $\chi_{NS}=0.27$, ADM mass $M=2.51 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/1-Q7wr_181A" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ---
-## Case 6: Spinning $\chi_{NS}=0.26$, $M=2.57 M_\odot$, supramassive remnant.
+#### Spinning, $\chi_{NS}=0.26$, ADM mass $M=2.57 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/K-5Yf_ZF5nQ" frameborder="0" allowfullscreen></iframe>
 
