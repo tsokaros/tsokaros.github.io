@@ -85,7 +85,7 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 
 ---
-## Case 1: Irrotational $M=2.40 M_\odot$
+## Case 1: Irrotational, $M=2.40 M_\odot$, supramassive remnant.
 
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/VAgDpT0Jccc" frameborder="0" allowfullscreen></iframe>
@@ -94,42 +94,29 @@ outflows from SMNSs cannot be the progenitors of sGRBs.
 
 
 ---
-## Case 2: Irrotational 2.54
-
+## Case 2: Irrotational, $M=2.54 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/lt2wVfvU5C4" frameborder="0" allowfullscreen></iframe>
 
 ---
-## Case 3: Irrotational 2.57
-
+## Case 3: Irrotational, $M=2.57 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/XqxsQ47zCoc" frameborder="0" allowfullscreen></iframe>
 
-
 ---
-## Case 4: Irrotational 2.70
-
+## Case 4: Irrotational, $M=2.70 M_\odot$, hypermassive remnant that collapses to a black hole.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/2YPsI57J4v8" frameborder="0" allowfullscreen></iframe>
 
-
 ---
-## Case 5: Spinning 2.51
-
+## Case 5: Spinning $\chi_{NS}=0.27$, $M=2.51 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/CCmXxK07ks4" frameborder="0" allowfullscreen></iframe>
 
-
 ---
-## Case 6: Spinning 2.57
-
+## Case 6: Spinning $\chi_{NS}=0.26$, $M=2.57 M_\odot$, supramassive remnant.
 
 <iframe width="760" height="450" src="https://www.youtube.com/embed/cRXn-EnJ4ms" frameborder="0" allowfullscreen></iframe>
-
-
----
-
-
 
 
 
