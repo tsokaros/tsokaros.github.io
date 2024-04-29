@@ -84,6 +84,11 @@ nav_order: 6
     <img alt="mai_li" src="../assets/img/mai.jpg" width="200" height="200"> 
      <figcaption>Mai Li </figcaption>
   </div>
+  <div class="column">
+    <img alt="taige_chen" src="../assets/img/team/taige.jpg" width="200" height="200"> 
+     <figcaption>Taige Chen </figcaption>
+  </div>
+
 </div>
 
 

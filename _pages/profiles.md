@@ -149,6 +149,22 @@ profiles:
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >  
+  - header: 
+    align: left
+    image: taige.jpg
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Taige Chen</p>
+      <p>taigec2@illinois.edu</p>  
+    align: right
+    image: 
+    title: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >  
+
 
 
 ---
