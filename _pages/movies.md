@@ -5,7 +5,7 @@ permalink: /movies/
 description: 
 nav: false
 nav_order: 2
-display_categories: 
+display_categories: [2024, 2023, 2022, 2021, 2020, 2019, 2018] 
 horizontal: true
 ---
 
@@ -19,21 +19,25 @@ horizontal: true
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    <div class="container">
+        <div class="row">
+        {%- for project in sorted_projects -%}
+            <div class="col-xl-12">
+                {% include projects_horizontal_11.html %}
+            </div>
+        {%- endfor %}
+        </div>
     </div>
-  </div>
   {%- else -%}
-  <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-    <div>
-  </div>
+    <div class="container">
+        <div class="row">
+        {%- for project in sorted_projects -%}
+            <div class="col-xl-8">
+                {% include projects_horizontal.html %}
+            </div>
+        {%- endfor %}
+        </div>
+    </div>
   {%- endif -%}
   {% endfor %}
 
