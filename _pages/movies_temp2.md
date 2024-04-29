@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Movies
-permalink: /movies/
+permalink: /moviestmp2/
 description: 
 nav: false
 nav_order: 2
@@ -56,7 +56,7 @@ horizontal: true
         <div class="row">
         {%- for project in sorted_projects -%}
             <div class="col-xl-8">
-                {% include projects_horizontal.html %}
+                {% include projects_horizontal_temp2.html %}
             </div>
         {%- endfor %}
         </div>
