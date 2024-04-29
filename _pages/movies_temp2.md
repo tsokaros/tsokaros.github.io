@@ -1,12 +1,12 @@
 ---
-layout: movies
+layout: page
 title: Movies
-permalink: /moviestwo/
+permalink: /movies/
 description: 
 nav: false
 nav_order: 2
 display_categories: 
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -19,16 +19,20 @@ horizontal: false
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-    <div class="row row-cols-2">
+  <div class="container">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal_test.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
+  </div>
   {%- else -%}
   <div class="container">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
+    <div>
   </div>
   {%- endif -%}
   {% endfor %}
@@ -38,17 +42,21 @@ horizontal: false
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal_test.html %}
-    {%- endfor %}
+    <div class="container">
+        <div class="row">
+        {%- for project in sorted_projects -%}
+            <div class="col-xl-12">
+                {% include projects_horizontal_11.html %}
+            </div>
+        {%- endfor %}
+        </div>
     </div>
   {%- else -%}
     <div class="container">
         <div class="row">
         {%- for project in sorted_projects -%}
-            <div class="col-xl-6">
-                {% include projects.html %}
+            <div class="col-xl-8">
+                {% include projects_horizontal.html %}
             </div>
         {%- endfor %}
         </div>
