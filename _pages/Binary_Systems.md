@@ -13,8 +13,23 @@ our theoretical knowledge to its limits. The evolutionary path of a binary syste
 all the way to the formation of a relativistic jet, and the production of the heavier elements in our Universe is a
 fundamental research problem.
 
-<img width="250" height=150 src="/assets/img/Ali_Mspin_036_1.png" />  <img width="250" height=150 src="/assets/img/bhdisk_bsqrd.png" /> <img width="250" height=150 src="/assets/img/hydro5.png" />
-Magnetized spinning NSNSs$$\hspace{1.5cm}$$ Incipient jet from a binary remnant $$\hspace{0.5cm}$$ Neutron star disruption in BHNS
+
+
+<div class="row">
+  <div class="column">
+    <img alt="MagnetizedSpinningNSNS" src="/assets/img/Ali_Mspin_036_1.png" width="250" height="150">
+     <figcaption> Magnetized Spinning NSNSs </figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="IJBR" src="/assets/img/bhdisk_bsqrd.png" width="250" height="150">
+     <figcaption> Incipient Jet from a Binary Remnant</figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="NeutronStarDisrupBHNS" src="/assets/img/hydro5.png" width="250" height="150">
+     <figcaption> Neutron star disruption in BHNS </figcaption>
+  </div>
+</div>
+
 
 Topics of interest include:
  - Formulations
