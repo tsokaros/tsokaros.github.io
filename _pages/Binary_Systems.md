@@ -14,19 +14,25 @@ all the way to the formation of a relativistic jet, and the production of the he
 fundamental research problem.
 
 
-
 <div class="row">
+&nbsp;&nbsp;&nbsp;&nbsp;
   <div class="column">
     <img alt="MagnetizedSpinningNSNS" src="/assets/img/Ali_Mspin_036_1.png" width="250" height="150">
-     <figcaption> Magnetized Spinning NSNSs </figcaption>
-  </div>&nbsp;&nbsp;
+    <figcaption> 
+    <p style="text-align: center;"> Magnetized Spinning NSNSs </p>
+    </figcaption>
+  </div>&nbsp;
   <div class="column">
     <img alt="IJBR" src="/assets/img/bhdisk_bsqrd.png" width="250" height="150">
-     <figcaption> Incipient Jet from a Binary Remnant</figcaption>
-  </div>&nbsp;&nbsp;
+    <figcaption> 
+    <p style="text-align: center;"> Incipient jet </p>
+    </figcaption>
+  </div>&nbsp;
   <div class="column">
     <img alt="NeutronStarDisrupBHNS" src="/assets/img/hydro5.png" width="250" height="150">
-     <figcaption> Neutron star disruption in BHNS </figcaption>
+    <figcaption> 
+    <p style="text-align: center;"> Neutron star disruption in BHNS </p>
+    </figcaption>
   </div>
 </div>
 
