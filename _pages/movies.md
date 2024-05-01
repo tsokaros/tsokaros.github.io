@@ -6,16 +6,28 @@ description:
 nav: false
 nav_order: 2
 display_categories: [2024, 2023, 2022, 2021, 2020, 2019, 2018] 
- 
 horizontal: true
 ---
 
+
+
 <!-- pages/projects.md -->
 <div class="projects">
+<style>
+  .category-header {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+</style>
+
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
+  <h2 class="category-header">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->

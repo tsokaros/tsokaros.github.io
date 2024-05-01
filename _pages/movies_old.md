@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Movies
-permalink: /moviestmp1/
+permalink: /moviesold/
 description: 
 nav: false
 nav_order: 2
-display_categories: 
+display_categories: [2024, 2023, 2022, 2021, 2020, 2019, 2018] 
+ 
 horizontal: true
 ---
 
@@ -23,7 +24,7 @@ horizontal: true
         <div class="row">
         {%- for project in sorted_projects -%}
             <div class="col-xl-12">
-                {% include projects_horizontal_temp1.html %}
+                {% include projects_horizontal_temp3.html %}
             </div>
         {%- endfor %}
         </div>
@@ -50,7 +51,7 @@ horizontal: true
         <div class="row">
         {%- for project in sorted_projects -%}
             <div class="col-xl-12">
-                {% include projects_horizontal_temp1.html %}
+                {% include projects_horizontal_temp3.html %}
             </div>
         {%- endfor %}
         </div>
