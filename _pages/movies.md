@@ -18,7 +18,7 @@ horizontal: true
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
-    margin-top: 2rem;
+    margin-top: 0rem;
     margin-bottom: 1rem;
     text-align: left;
   }
