@@ -1,3 +1,21 @@
+
+<style>
+.adaptive-text-color {
+  color: rgb(0,0,0); /* Set default text color */
+  font-family: Arial, sans-serif; /* Set font family */
+  font-size: 18px; /* Set font size */
+
+}
+
+/* For dark theme */
+[data-theme="dark"] .adaptive-text-color {
+  color: rgb(255, 255, 255); /* Set text color for dark theme */
+  font-family: Arial, sans-serif; /* Set font family */
+  font-size: 18px; /* Set font size */
+}
+</style>
+
+
 <div class="card-item col" style="height: 105px;"> <!-- Set a fixed height -->
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
@@ -15,7 +33,7 @@
         <div class="col-md-12">
         {%- endif -%}
           <div class="card-body p-1 h-100 d-flex flex-column" style="background: none;">
-            <p class="card-text m-0" style="font-family: Arial, sans-serif; font-size: 18px">{{ project.description }}</p>
+            <p class="card-text m-0 adaptive-text-color">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if project.github -%}
               <div class="github-icon">
