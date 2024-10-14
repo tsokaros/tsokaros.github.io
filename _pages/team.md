@@ -41,12 +41,21 @@ nav_order: 6
   <div class="column">
     <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">
      <figcaption>Maxwell Rizzo </figcaption>
+  </div>&nbsp;&nbsp;
+ <div class="column">
+    <img alt="sagnik_saha" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
+     <figcaption>Sagnik Saha</figcaption>
+  </div>&nbsp;&nbsp;
+ <div class="column">
+    <img alt="sumant_vyaghrambare" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
+     <figcaption>Sumant Vyaghrambare</figcaption>
   </div>
 </div>
 
 ---
 ## Undergraduate Students
 
+<!---
 <div class="row">
   <div class="column">
     <img alt="eric_yu" src="../assets/img/team/eric.png" width="200" height="200">
@@ -60,7 +69,7 @@ nav_order: 6
     <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">
      <figcaption>Nawaf Aldrees </figcaption>
   </div>
-</div>
+</div>   --->
 <div class="row">
   <div class="column">
     <img alt="shreyas_jammi" src="../assets/img/team/shreyas.png" width="200" height="200">
@@ -88,14 +97,28 @@ nav_order: 6
     <img alt="taige_chen" src="../assets/img/team/taige.jpg" width="200" height="200"> 
      <figcaption>Taige Chen </figcaption>
   </div>
-
 </div>
-
+<div class="row">
+  <div class="column">
+    <img alt="cody_olson" src="../assets/img/team/cody_headshot.jpg" width="200" height="200">
+     <figcaption>Cody Olson</figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="yuheng_guo" src="../assets/img/team/yuheng_guo.PNG" width="200" height="200">
+     <figcaption>Yuheng Guo</figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="seyed_dastgheib" src="../assets/img/team/seyed.jpeg" width="200" height="200">
+     <figcaption>Seyed Ahmad Dastgheib </figcaption>
+  </div>
+</div> 
 
 
 ---
 ## Alumni
-**Undergrad**
+**Undergraduates**
 - [Mit Kotak](https://mitkotak.github.io/) (2021-2023) Now CSE PhD at MIT
-
+- [Eric Yu](https://aeric-underscore.github.io) (2021-2024) PhD UC Berkeley
+- Jonah Doppelt (2021-2024)
+- Nawaf Aldrees (2021-2024)
 
