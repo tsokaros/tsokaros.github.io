@@ -43,10 +43,6 @@ nav_order: 6
      <figcaption>Maxwell Rizzo </figcaption>
   </div>&nbsp;&nbsp;
  <div class="column">
-    <img alt="sagnik_saha" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
-     <figcaption>Sagnik Saha</figcaption>
-  </div>&nbsp;&nbsp;
- <div class="column">
     <img alt="sumant_vyaghrambare" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
      <figcaption>Sumant Vyaghrambare</figcaption>
   </div>
