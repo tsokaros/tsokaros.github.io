@@ -1,11 +1,11 @@
 {% assign repo_url = include.repository | split: '/' %}
 
 {% if include.repository contains "http" %}
-  <!-- External Site (Not GitHub Repo) -->
+  <!-- External Site (like a GitHub Pages site) -->
   <div class="repo p-2 text-center">
     <a href="{{ include.repository }}" target="_blank">
-      <img class="repo-img-light w-100" alt="Site Preview" src="{{ include.image | default: '/assets/img/1.png' }}">
-      <img class="repo-img-dark w-100" alt="Site Preview" src="{{ include.image_dark | default: include.image | default: '/assets/img/1.png' }}">
+      <img class="repo-img-light w-100" alt="{{ include.title }}" src="{{ include.image | default: '/assets/img/default-preview.png' }}">
+      <img class="repo-img-dark w-100" alt="{{ include.title }}" src="{{ include.image_dark | default: include.image | default: '/assets/img/default-preview.png' }}">
       <p class="mt-2">{{ include.title | default: "Visit Site" }}</p>
     </a>
   </div>
