@@ -2,6 +2,6 @@ visualization:
   - sjammi2/VisualizationGuideDocumentationTest
   - Illinois-Relativity-Group/abid_bot
   - repository: https://sjammi2.github.io/VisualizationGuideDocumentationTest/
-    image: assets/img/nsns_colourbar_002_060_0016.png
+    image: /assets/img/nsns_colourbar_002_060_0016.png
 COCAL:
   - lsun11/COCAL-Illinois
