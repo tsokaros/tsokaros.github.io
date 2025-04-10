@@ -1,35 +1,18 @@
 {% assign repo_url = include.repository | split: '/' %}
 
 {% if include.repository contains "http" %}
-  {% if include.repository contains "github.io" %}
-    <!-- Handle GitHub Pages URLs -->
-    <div class="repo p-2 text-center">
-      <a href="{{ include.repository }}" target="_blank">
-        <img class="repo-img-light w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner=false">
-        <img class="repo-img-dark w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&show_owner=false">
-      </a>
-    </div>
-  {% else %}
-    <!-- Handle external URLs (non-GitHub Pages) -->
-    <div class="repo p-2 text-center">
-      <a href="{{ include.repository }}" target="_blank">
-        <img class="repo-img-light w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner=false">
-        <img class="repo-img-dark w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&show_owner=false">
-      </a>
-    </div>
-  {% endif %}
+  <!-- Case 2: External URL with custom image -->
+  <div class="repo p-2 text-center">
+    <a href="{{ include.repository }}" target="_blank">
+      <img class="repo-img w-100" alt="External site" src="{{ include.image }}">
+    </a>
+  </div>
 {% else %}
-  <!-- Handle GitHub repositories -->
-  {% if site.data.repositories.github_users contains repo_url.first %}
-    {% assign show_owner = false %}
-  {% else %}
-    {% assign show_owner = true %}
-  {% endif %}
-
+  <!-- Case 1: GitHub Repository -->
   <div class="repo p-2 text-center">
     <a href="https://github.com/{{ include.repository }}">
-      <img class="repo-img-light w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}">
-      <img class="repo-img-dark w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&show_owner={{ show_owner }}">
+      <img class="repo-img-light w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner=true">
+      <img class="repo-img-dark w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&show_owner=true">
     </a>
   </div>
 {% endif %}
