@@ -41,10 +41,10 @@ nav_order: 6
   <div class="column">
     <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">
      <figcaption>Maxwell Rizzo </figcaption>
-  </div>&nbsp;&nbsp;
+<!---  </div>&nbsp;&nbsp;
  <div class="column">
     <img alt="sumant_vyaghrambare" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
-     <figcaption>Sumant Vyaghrambare</figcaption>
+     <figcaption>Sumant Vyaghrambare</figcaption>   --->
   </div>
 </div>
 
