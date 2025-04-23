@@ -8,7 +8,6 @@ nav_order: 4
 ---
 
 <br>
-<br>
 ## The Illinois Numerical Relativity Visualization Primer
 
 <!-- Featured Image -->
@@ -21,6 +20,9 @@ nav_order: 4
 </div>
 {% endfor %}
 {% endif %}
+
+<br>
+## Illinois Relativity Group Abid Bot
 
 {% if site.data.repositories.visualization %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -44,7 +46,6 @@ nav_order: 4
   </div>
 {% endif %}
 
-## Illinois Relativity Group Abid Bot
 
 <br/>
 <!--- ## Movies   --->
