@@ -1,11 +1,14 @@
 ---
 layout: page
 permalink: /visualization/
-title: <p style="text-align:center;">Visualization</p>   
+title: Visualization
 description: 
 nav: false
 nav_order: 4
 ---
+
+<br>
+<br>
 ## The Illinois Numerical Relativity Visualization Primer
 
 <!-- Featured Image -->
