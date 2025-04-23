@@ -6,18 +6,18 @@ description:
 nav: false
 nav_order: 4
 ---
+## The Illinois Numerical Relativity Visualization Primer
+
 <!-- Featured Image -->
 {% if site.data.repositories.visualization_featured %}
 {% for item in site.data.repositories.visualization_featured %}
-<div class="featured-repo text-center mb-4" style="width: 75%; margin: 0 auto;">
+<div class="featured-repo text-center mb-4" style="width: 90%; margin: 0 auto;">
   <a href="{{ item.repository }}" target="_blank">
     <img class="img-fluid" src="{{ item.image }}" alt="Featured Visualization" style="width: 100%;">
   </a>
 </div>
 {% endfor %}
 {% endif %}
-
-## The Illinois Numerical Relativity Visualization Primer
 
 {% if site.data.repositories.visualization %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
