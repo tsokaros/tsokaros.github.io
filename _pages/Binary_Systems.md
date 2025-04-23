@@ -37,11 +37,11 @@ fundamental research problem.
 </div>
 
 
-Topics of interest include:
- - Formulations
- - Binary neutron stars
- - Binary black hole-neutron stars
- - Binary black holes
+<!--- Topics of interest include:  --->
+<!---  - Formulations  --->  
+<!---  - Binary neutron stars  --->  
+<!---  - Binary black hole-neutron stars --->  
+<!---  - Binary black holes --->  
 
 Each binary system above can be used to probe different physical phenomena, from the geometry of spacetime, to the
 neutron star equation of state, the creation of relativistic jets, or r-process nucleosynthesis. 
