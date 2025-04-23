@@ -20,8 +20,8 @@ a BH, BH-disks may be formed and serve as prime candidates for multimessenger as
 <img width="350" height=250 src="/assets/img/90_last_cut.png" /> 
 BHBHs in an accretion disk $$\hspace{5.5cm}$$ Self-gravitating BH-disk system 
 
-Topics of interest include:
- - Isolated black hole/neutron star with an accretion disk
- - Binary system with an accretion disk
+<!--- Topics of interest include:  --->
+<!--- - Isolated black hole/neutron star with an accretion disk  --->
+<!--- - Binary system with an accretion disk   --->
 
 
