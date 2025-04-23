@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /visualization/
-title: Visualization
+title: <p style="text-align:center;">Visualization</p>   
 description: 
 nav: false
 nav_order: 4
