@@ -22,7 +22,7 @@ nav_order: 4
 {% endif %}
 
 <br>
-## Abid Bot
+## The Abid Bot
 
 {% if site.data.repositories.visualization %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
