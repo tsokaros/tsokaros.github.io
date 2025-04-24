@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <br>
-## The Illinois Numerical Relativity Visualization Primer
+### <span style="color: red;">The Illinois Numerical Relativity Visualization Primer</span>
 
 <!-- Featured Image -->
 {% if site.data.repositories.visualization_featured %}
@@ -22,11 +22,10 @@ nav_order: 4
 {% endif %}
 
 <br>
-## The Abid Bot
+### <span style="color: yellow;">The Abid Bot</span>
 
 {% if site.data.repositories.visualization %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-
     {% for item in site.data.repositories.visualization %}
       {% if item contains 'abid_bot' %}
         <!-- Center abid_bot -->
@@ -42,7 +41,6 @@ nav_order: 4
         {% endif %}
       {% endif %}
     {% endfor %}
-
   </div>
 {% endif %}
 
