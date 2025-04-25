@@ -22,7 +22,7 @@ I am a Research Assistant Professor in the [Department of Physics](https://physi
 the University of Illinois at Urbana-Champaign, a Faculty Fellow at 
 the [National Center of Supercomputing Applications](https://www.ncsa.illinois.edu/) (NCSA) and a 
 Senior Researcher at the [Research Center for Astronomy and Applied Mathematics](http://astro.academyofathens.gr/) 
-in the  Academy of Athens, Greece.   
+in the [Academy of Athens](https://www.academyofathens.gr/en), Greece.   
 
 My research interests lie in the general theory of relativity and the theory of
 compact objects. I use supercomputers to study the physics of neutron stars,
