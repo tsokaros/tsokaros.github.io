@@ -12,7 +12,7 @@ nav_order: 6
 <div class="row">
   <div class="column">
     <img alt="antonios_tsokaros" src="../assets/img/team/Antonios.png" width="200" height="200">
-     <figcaption>Antonios Tsokaros</figcaption>
+     <figcaption><a href="https://physics.illinois.edu/people/directory/profile/tsokaros">Antonios Tsokaros</a> </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="stu_shapiro" src="../assets/img/team/stu.png" width="200" height="200">
