@@ -19,10 +19,14 @@ gravitational wave signal, a short γ-ray burst, and a kilonova.
 <img width="250" height=150 src="/assets/img/p_eq_rho_t_P_30.png" />  <img width="250" height=150 src="/assets/img/a2_side_t0_particles.png" /> <img width="250" height=150 src="/assets/img/triaxial.png" />
 $$\phantom{.}\hspace{2cm}$$ Ergostar $$\hspace{5cm}$$ Magnetar $$\hspace{4cm}$$ Triaxial neutron star
 
+We solve the Einstein’s equations, Maxwell’s equations, and magnetohydrodynamic equations to construct 
+models of **isolated** neutron stars. These models are further evolved in order to study their 
+stability properties, as well as their gravitational and electromagnetic signatures.
+<!---
 With the help of the [COCAL](https://tsokaros.github.io/COCAL/) code we solve the Einstein’s equations, 
 Maxwell’s equations, and magnetohydrodynamic equations to construct models of **isolated** neutron/quark 
 stars. These models are further evolved in order to study their stability properties, as well as their 
-gravitational and electromagnetic signatures. <!---  Topics of interest include: --->
+gravitational and electromagnetic signatures. --->       <!---  Topics of interest include: --->
  <!--- - Formulations --->
  <!--- - Hydrodynamics --->
 <!---   - Axisymmetric or triaxial  --->
