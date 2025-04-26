@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 ---
-## Faculty
+## Faculty  ...
 <div class="row">
   <div class="column">
     <img alt="antonios_tsokaros" src="../assets/img/team/Antonios.png" width="200" height="200">
