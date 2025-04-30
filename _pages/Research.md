@@ -1,17 +1,26 @@
 ---
 layout: page_2
-title: Repositories
-permalink: /repositories/
+title: Research
+permalink: /research/
 nav: true
-nav_order: 4
+nav_order: 2
 dropdown: true
 
 children:
-  - title: Visualization
-    permalink: /visualization/
-  - title: divider
-  - title: COCAL
-    permalink: /COCAL/
----
+    - title: Publications
+      permalink: /publications/
+    - title: divider
+    - title: Neutron Stars
+      permalink: /neutronstars/
+    - title: divider
+    - title: Binary Systems
+      permalink: /binarysystems/
+    - title: divider
+    - title: Accretion Disks
+      permalink: /accretiondisks/
+    - title: divider
+    - title: Movies
+      permalink: /movies/
 
+---
 
