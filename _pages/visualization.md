@@ -7,8 +7,11 @@ nav: false
 nav_order: 4
 ---
 
-<br>
-### <span style="color: red;">The Illinois Numerical Relativity Visualization Primer</span>
+<p style="text-align:center;">
+<font size="6">
+<span style="color: red;">The Illinois Numerical Relativity Visualization Primer</span>
+</font>
+</p>
 
 <!-- Featured Image -->
 {% if site.data.repositories.visualization_featured %}
