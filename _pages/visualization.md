@@ -7,16 +7,23 @@ nav: false
 nav_order: 4
 ---
 
-<p style="text-align:center;">
+<!---
+<div style="text-align:center;">
 <font size="6">
 <span style="color: red;">The Illinois Numerical Relativity Visualization Primer</span>
 </font>
-</p>
+</div>     --->
 
-<!-- Featured Image -->
+<!---  [<font size="6">
+The Illinois Numerical Relativity Visualization Primer
+</font>](https://sjammi2.github.io/VisualizationGuideDocumentationTest/)   --->
+
+
+### [The Illinois Numerical Relativity Visualization Primer](https://sjammi2.github.io/VisualizationGuideDocumentationTest/)
+
 {% if site.data.repositories.visualization_featured %}
 {% for item in site.data.repositories.visualization_featured %}
-<div class="featured-repo text-center mb-4" style="width: 90%; margin: 0 auto;">
+<div class="featured-repo text-left mb-4" style="width: 90%; margin: 20 auto;">
   <a href="{{ item.repository }}" target="_blank">
     <img class="img-fluid" src="{{ item.image }}" alt="Featured Visualization" style="width: 100%;">
   </a>
@@ -25,18 +32,29 @@ nav_order: 4
 {% endif %}
 
 <br>
-### <span style="color: yellow;">The Abid Bot</span>
+### [The Abid Bot](https://github.com/Illinois-Relativity-Group/abid_bot/)
 
+{% if site.data.repositories.visualization_abid %}
+{% for item in site.data.repositories.visualization_abid %}
+<div class="featured-repo text-left mb-4" style="width: 50%; margin: 20 auto;">
+  <a href="{{ item.repository }}" target="_blank">
+    <img class="img-fluid" src="{{ item.image }}"  style="width: 50%;">
+  </a>
+</div>
+{% endfor %}
+{% endif %}
+
+
+
+<!---
 {% if site.data.repositories.visualization %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
     {% for item in site.data.repositories.visualization %}
       {% if item contains 'abid_bot' %}
-        <!-- Center abid_bot -->
         <div class="w-100 text-center my-3">
           {% include repository/repo.html repository=item %}
         </div>
       {% else %}
-        <!-- Regular repos -->
         {% if item.repository %}
           {% include repository/repo.html repository=item.repository image=item.image %}
         {% else %}
@@ -46,7 +64,7 @@ nav_order: 4
     {% endfor %}
   </div>
 {% endif %}
-
+--->
 
 <br/>
 <!--- ## Movies   --->

@@ -2,8 +2,9 @@ visualization_featured:
   - repository: https://sjammi2.github.io/VisualizationGuideDocumentationTest/
     image: /assets/img/zoom1_tM2475.png
 
-visualization:
-  - Illinois-Relativity-Group/abid_bot
+visualization_abid:
+  - repository: https://github.com/Illinois-Relativity-Group/abid_bot/
+    image: /assets/img/abid.png
 
 COCAL:
   - lsun11/COCAL-Illinois
