@@ -6,4 +6,4 @@ nav: true
 nav_order: 8
 ---
 
-News under construction
+News under construction. Coming Soon.
