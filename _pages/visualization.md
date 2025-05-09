@@ -19,7 +19,8 @@ The Illinois Numerical Relativity Visualization Primer
 </font>](https://sjammi2.github.io/VisualizationGuideDocumentationTest/)   --->
 
 
-### [The Illinois Numerical Relativity Visualization Primer](https://sjammi2.github.io/VisualizationGuideDocumentationTest/)
+<!---  ### [The Illinois Numerical Relativity Visualization Primer](https://sjammi2.github.io/VisualizationGuideDocumentationTest/)  --->
+### The Illinois Numerical Relativity Visualization Primer
 
 {% if site.data.repositories.visualization_featured %}
 {% for item in site.data.repositories.visualization_featured %}
