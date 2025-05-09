@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /COCALtest/
+permalink: /COCAL/
 title: The <font color="green"> Compact Object CALculator </font> code
 description: 
 nav: false

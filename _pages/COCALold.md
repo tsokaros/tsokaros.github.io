@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /COCAL/
+permalink: /COCALold/
 title: The Compact Object CALculator code
 description: 
 nav: false
