@@ -22,7 +22,7 @@ mathematical formulations.
   <div class="row">
     <div class="col-5">
       <img align="left" width="300" height=200 src="/assets/img/seagull3.jpg" >
-      <font color="yellow" size="1">COCAL means a "seagull" in the Triestine dialect of Italian. </font>
+      <font color="magenta" size="1">COCAL means a "seagull" in the Triestine dialect of Italian. </font>
     </div>
     <div class="col">
       The <strong>COCAL</strong> code is a GRMHD initial value code whose objective
