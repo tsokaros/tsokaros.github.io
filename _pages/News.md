@@ -1,7 +1,7 @@
 ---
 layout: news_page
-title: News
-permalink: /news/
+title: ews
+permalink: /ews/
 nav: true
 nav_order: 8
 ---
