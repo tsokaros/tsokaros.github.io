@@ -19,30 +19,18 @@ The Illinois Numerical Relativity Visualization Primer
 </font>](https://sjammi2.github.io/VisualizationGuideDocumentationTest/)   --->
 
 
-### [The Illinois Numerical Relativity Visualization Primer](https://tsokaros.github.io/VisualizationGuideDocumentation/)  
+{% assign all_repos = site.data.repositories.repositories %}
 
-{% if site.data.repositories.visualization_featured %}
-{% for item in site.data.repositories.visualization_featured %}
-<div class="featured-repo text-left mb-4" style="width: 90%; margin: 20 auto;">
+{% for item in all_repos %}
+<div class="featured-repo text-left mb-4" style="width: 90%; margin: 20px auto;">
+  <h3 style="margin-bottom: 10px;"><a href="{{ item.repository }}" target="_blank">{{ item.title }}</a></h3>
+  {% if item.image %}
   <a href="{{ item.repository }}" target="_blank">
-    <img class="img-fluid" src="{{ item.image }}" alt="Featured Visualization" style="width: 100%;">
+    <img class="img-fluid" src="{{ item.image }}" alt="{{ item.title }}" style="width: 100%; max-width: 600px;">
   </a>
+  {% endif %}
 </div>
 {% endfor %}
-{% endif %}
-
-<br>
-### [The Abid Bot](https://github.com/Illinois-Relativity-Group/abid_bot/)
-
-{% if site.data.repositories.visualization_abid %}
-{% for item in site.data.repositories.visualization_abid %}
-<div class="featured-repo text-left mb-4" style="width: 50%; margin: 20 auto;">
-  <a href="{{ item.repository }}" target="_blank">
-    <img class="img-fluid" src="{{ item.image }}"  style="width: 50%;">
-  </a>
-</div>
-{% endfor %}
-{% endif %}
 
 
 
