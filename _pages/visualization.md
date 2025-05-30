@@ -26,7 +26,7 @@ The Illinois Numerical Relativity Visualization Primer
   <h3 style="margin-bottom: 10px;"><a href="{{ item.repository }}" target="_blank">{{ item.title }}</a></h3>
   {% if item.image %}
   <a href="{{ item.repository }}" target="_blank">
-    <img src="{{ item.image }}" alt="{{ item.title }}" style="display: block;">
+    <img class="img-fluid" src="{{ item.image }}" alt="{{ item.title }}" style="width: 100%; max-width: 600px;">
   </a>
   {% endif %}
 </div>
