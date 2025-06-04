@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /COCAL/
-title: The <font color="green"> Compact Object CALculator </font> code
+title: COCAL
 description: 
 nav: false
 nav_order: 4
