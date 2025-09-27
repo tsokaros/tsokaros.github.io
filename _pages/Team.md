@@ -114,7 +114,7 @@ nav_order: 6
      <figcaption>Jiahe Jin </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
-    <img alt="xiaoan_zhao" src="../assets/img/team/Xiaoan Zhao.jpg" width="200" height="200"> 
+    <img alt="xiaoan_zhao" src="../assets/img/team/xiaoanzhao.jpg" width="200" height="200"> 
      <figcaption>Xiaoan Zhao </figcaption>
   </div>
 </div> 
