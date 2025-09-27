@@ -116,6 +116,8 @@ nav_order: 6
   <div class="column">
     <img alt="xiaoan_zhao" src="../assets/img/team/Xiaoan Zhao.jpg" width="200" height="200"> 
      <figcaption>Xiaoan Zhao </figcaption>
+  </div>
+</div> 
 
 
 ---
