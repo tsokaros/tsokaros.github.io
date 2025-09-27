@@ -110,7 +110,7 @@ nav_order: 6
 </div> 
 <div class="row">
   <div class="column">
-    <img alt="jiahe_jin" src="../assets/img/team/Jiahe_Jin.jpg" width="200" height="200">
+    <img alt="jiahe_jin" src="../assets/img/team/jiahejin.jpg" width="200" height="200">
      <figcaption>Jiahe Jin </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
