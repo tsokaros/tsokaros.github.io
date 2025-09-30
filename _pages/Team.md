@@ -108,6 +108,16 @@ nav_order: 6
      <figcaption>Seyed Ahmad Dastgheib </figcaption>
   </div>
 </div> 
+<div class="row">
+  <div class="column">
+    <img alt="jiahe_jin" src="../assets/img/team/jiahejin.jpg" width="200" height="200">
+     <figcaption>Jiahe Jin </figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="xiaoan_zhao" src="../assets/img/team/xiaoanzhao.jpg" width="200" height="200"> 
+     <figcaption>Xiaoan Zhao </figcaption>
+  </div>
+</div> 
 
 
 ---
