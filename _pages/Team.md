@@ -41,6 +41,10 @@ nav_order: 6
   <div class="column">
     <img alt="maxwell_rizzo" src="../assets/img/team/maxwell.png" width="200" height="200">
      <figcaption>Maxwell Rizzo </figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="mai_li" src="../assets/img/mai.jpg" width="200" height="200"> 
+     <figcaption>Mai Li </figcaption>
 <!---  </div>&nbsp;&nbsp;
  <div class="column">
     <img alt="sumant_vyaghrambare" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
@@ -86,19 +90,15 @@ nav_order: 6
      <figcaption>Gene Yun </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
-    <img alt="mai_li" src="../assets/img/mai.jpg" width="200" height="200"> 
-     <figcaption>Mai Li </figcaption>
-  </div>&nbsp;&nbsp;
-  <div class="column">
     <img alt="taige_chen" src="../assets/img/team/taige.jpg" width="200" height="200"> 
      <figcaption>Taige Chen </figcaption>
-  </div>
-</div>
-<div class="row">
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="cody_olson" src="../assets/img/team/cody_headshot.jpg" width="200" height="200">
      <figcaption>Cody Olson</figcaption>
-  </div>&nbsp;&nbsp;
+  </div>
+</div>
+<div class="row">
   <div class="column">
     <img alt="yuheng_guo" src="../assets/img/team/yuheng_guo.PNG" width="200" height="200">
      <figcaption>Yuheng Guo</figcaption>
