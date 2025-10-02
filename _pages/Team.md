@@ -90,9 +90,7 @@ nav_order: 6
   <div class="column">
     <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200"> 
      <figcaption>Yinuan Liang </figcaption>
-  </div>
-</div>
-<div class="row">
+  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="taige_chen" src="../assets/img/team/taige.jpg" width="200" height="200"> 
      <figcaption>Taige Chen </figcaption>
