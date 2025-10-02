@@ -45,6 +45,10 @@ nav_order: 6
   <div class="column">
     <img alt="mai_li" src="../assets/img/mai.jpg" width="200" height="200"> 
      <figcaption>Mai Li </figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="zixiang_meng" src="../assets/img/zixiang.jpg" width="200" height="200"> 
+     <figcaption>Zixiang Meng </figcaption>
 <!---  </div>&nbsp;&nbsp;
  <div class="column">
     <img alt="sumant_vyaghrambare" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
@@ -68,9 +72,6 @@ nav_order: 6
   <div class="column">
     <img alt="nawaf_aldrees" src="../assets/img/team/nawaf.png" width="200" height="200">
      <figcaption>Nawaf Aldrees </figcaption>
-  </div>
-</div>   --->
-<div class="row">
   <div class="column">
     <img alt="shreyas_jammi" src="../assets/img/team/shreyas.png" width="200" height="200">
      <figcaption><a href="https://sjammi2.github.io/">Shreyas Jammi</a> </figcaption>
@@ -80,15 +81,18 @@ nav_order: 6
      <figcaption>Rohan Narasimhan </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
+    <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">
+     <figcaption>Gene Yun </figcaption>
+  </div>&nbsp;&nbsp;
+  </div>
+</div>   --->
+<div class="row">
+  <div class="column">
     <img alt="yinuan_liang" src="../assets/img/team/yinuan.png" width="200" height="200"> 
      <figcaption>Yinuan Liang </figcaption>
   </div>
 </div>
 <div class="row">
-  <div class="column">
-    <img alt="gene_yun" src="../assets/img/team/gene.png" width="200" height="200">
-     <figcaption>Gene Yun </figcaption>
-  </div>&nbsp;&nbsp;
   <div class="column">
     <img alt="taige_chen" src="../assets/img/team/taige.jpg" width="200" height="200"> 
      <figcaption>Taige Chen </figcaption>
@@ -118,7 +122,7 @@ nav_order: 6
      <figcaption>Xiaoan Zhao </figcaption>
   </div>&nbsp;&nbsp;
   <div class="column">
-    <img alt="zihao_wang" src="../assets/img/team/zihaowang.jpeg" width="200" height="200">
+    <img alt="zihao_wang" src="../assets/img/team/zihaowang.jpg" width="200" height="200">
      <figcaption>Zihao Wang </figcaption>
   </div>
 </div> 
@@ -131,4 +135,7 @@ nav_order: 6
 - [Eric Yu](https://aeric-underscore.github.io) (2021-2024) PhD UC Berkeley
 - Jonah Doppelt (2021-2024)
 - Nawaf Aldrees (2021-2024)
+- Shreyas Jammi
+- Rohan Narasimhan
+- Gene Yun
 
