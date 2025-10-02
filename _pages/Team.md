@@ -129,11 +129,11 @@ nav_order: 6
 ---
 ## Alumni
 **Undergraduates**
-- [Mit Kotak](https://mitkotak.github.io/) (2021-2023) Now CSE PhD at MIT
-- [Eric Yu](https://aeric-underscore.github.io) (2021-2024) PhD UC Berkeley
+- [Mit Kotak](https://mitkotak.github.io/) (2021-2023) PhD at MIT
+- [Eric Yu](https://aeric-underscore.github.io) (2021-2024) PhD at UC Berkeley
 - Jonah Doppelt (2021-2024)
 - Nawaf Aldrees (2021-2024)
-- Shreyas Jammi
-- Rohan Narasimhan
-- Gene Yun
+- Shreyas Jammi (2022-2025)
+- Rohan Narasimhan (2022-2025)
+- Gene Yun (2022-2024)
 
