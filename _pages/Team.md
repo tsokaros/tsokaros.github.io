@@ -122,6 +122,10 @@ nav_order: 6
   <div class="column">
     <img alt="zihao_wang" src="../assets/img/team/zihaowang.jpg" width="200" height="200">
      <figcaption>Zihao Wang </figcaption>
+  </div>&nbsp;&nbsp;
+  <div class="column">
+    <img alt="jiahe_jin" src="../assets/img/team/Unknown.jpeg" width="200" height="200">
+     <figcaption>Oliver David Scanio </figcaption>
   </div>
 </div> 
 
