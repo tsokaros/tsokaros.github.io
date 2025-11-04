@@ -71,6 +71,17 @@
   {% include scripts/analytics.html %}
   {% include scripts/progressBar.html %}
   {% include scripts/wechatModal.html %}
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FMJ3N8PQ8N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-FMJ3N8PQ8N');
+  </script>
 </body>
 
 </html>
